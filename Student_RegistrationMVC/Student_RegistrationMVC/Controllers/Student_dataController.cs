@@ -131,6 +131,21 @@ namespace Student_RegistrationMVC.Controllers
 
         public ActionResult Welcome()
         {
+            string constring = ConfigurationManager.ConnectionStrings["constrings"].ToString();
+            SqlConnection con = new SqlConnection(constring);
+            string qr = "select first_name , middle_name,last_name from Registration_ass1 where email_id='"+Session["email_id"]+"'";
+            con.Open();
+            SqlDataAdapter da = new SqlDataAdapter(qr, con);
+            DataSet ds = new DataSet();
+            da.Fill(ds,"Registration_ass1");
+            foreach (DataRow dr in ds.Tables["Registration_ass1"].Rows)
+            {
+                ViewData["fname"] = dr["first_name"].ToString();
+
+                ViewData["mname"] = dr["middle_name"].ToString();
+
+                ViewData["lname"] = dr["last_name"].ToString();
+            }
             return View();
         }
         public ActionResult logout()
