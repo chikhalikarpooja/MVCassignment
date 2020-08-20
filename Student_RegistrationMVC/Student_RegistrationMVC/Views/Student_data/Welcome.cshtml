@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewBag.Title = "Welcome";
+}
+@if (Session["email_id"] != null)
+{
+    <h2>Welcome @Session["email_id"].ToString() </h2>
+}
+<div>
+    @Html.ActionLink("Logout", "logout", "Student_data")
+</div>
