@@ -1,0 +1,31 @@
+﻿@using MVC_Beginform.Models
+@model User_Model
+@{
+    ViewBag.Title = "Index";
+}
+
+<h1>HTML BEGIN FOR</h1>
+
+@using (Html.BeginForm("Index", "home", FormMethod.Post))
+{
+    <span>Enter Your Name:</span> @Html.TextBoxFor(m => m.UserName)
+    <br />
+    <span>Enter Your Age: </span> @Html.TextBoxFor(m => m.Age)
+    <br />
+    <span>Enter Your City: </span>@Html.TextBoxFor(m => m.City)
+    <br />
+
+    <input id="Submit" type="submit" value="submit" />
+}
+
+<hr />
+
+<strong>User Name: </strong> @Html.DisplayFor(m => m.UserName)
+<br />
+<strong>User Age: </strong> @Html.DisplayFor(m => m.Age)
+<br />
+<strong>User City: </strong> @Html.DisplayFor(m => m.City)
+<br />
+
+
+
