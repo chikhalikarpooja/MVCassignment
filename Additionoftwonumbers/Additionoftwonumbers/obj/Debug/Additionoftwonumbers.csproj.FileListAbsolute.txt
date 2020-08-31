@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\pooja_C#.net\Additionoftwonumbers\Additionoftwonumbers\bin\Debug\Additionoftwonumbers.exe.config
+C:\Users\admin\Desktop\pooja_C#.net\Additionoftwonumbers\Additionoftwonumbers\bin\Debug\Additionoftwonumbers.exe
+C:\Users\admin\Desktop\pooja_C#.net\Additionoftwonumbers\Additionoftwonumbers\bin\Debug\Additionoftwonumbers.pdb
+C:\Users\admin\Desktop\pooja_C#.net\Additionoftwonumbers\Additionoftwonumbers\bin\Debug\Addition_of_number.dll
+C:\Users\admin\Desktop\pooja_C#.net\Additionoftwonumbers\Additionoftwonumbers\bin\Debug\Addition_of_number.pdb
+C:\Users\admin\Desktop\pooja_C#.net\Additionoftwonumbers\Additionoftwonumbers\obj\Debug\Additionoftwonumbers.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\Additionoftwonumbers\Additionoftwonumbers\obj\Debug\Additionoftwonumbers.Form1.resources
+C:\Users\admin\Desktop\pooja_C#.net\Additionoftwonumbers\Additionoftwonumbers\obj\Debug\Additionoftwonumbers.Properties.Resources.resources
+C:\Users\admin\Desktop\pooja_C#.net\Additionoftwonumbers\Additionoftwonumbers\obj\Debug\Additionoftwonumbers.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\pooja_C#.net\Additionoftwonumbers\Additionoftwonumbers\obj\Debug\Additionoftwonumbers.csproj.CopyComplete
+C:\Users\admin\Desktop\pooja_C#.net\Additionoftwonumbers\Additionoftwonumbers\obj\Debug\Additionoftwonumbers.exe
+C:\Users\admin\Desktop\pooja_C#.net\Additionoftwonumbers\Additionoftwonumbers\obj\Debug\Additionoftwonumbers.pdb

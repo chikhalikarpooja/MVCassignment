@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\arrayrev\arrayrev\bin\Debug\netcoreapp3.1\arrayrev.exe
+C:\Users\admin\source\repos\arrayrev\arrayrev\bin\Debug\netcoreapp3.1\arrayrev.deps.json
+C:\Users\admin\source\repos\arrayrev\arrayrev\bin\Debug\netcoreapp3.1\arrayrev.runtimeconfig.json
+C:\Users\admin\source\repos\arrayrev\arrayrev\bin\Debug\netcoreapp3.1\arrayrev.runtimeconfig.dev.json
+C:\Users\admin\source\repos\arrayrev\arrayrev\bin\Debug\netcoreapp3.1\arrayrev.dll
+C:\Users\admin\source\repos\arrayrev\arrayrev\bin\Debug\netcoreapp3.1\arrayrev.pdb
+C:\Users\admin\source\repos\arrayrev\arrayrev\obj\Debug\netcoreapp3.1\arrayrev.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\arrayrev\arrayrev\obj\Debug\netcoreapp3.1\arrayrev.AssemblyInfo.cs
+C:\Users\admin\source\repos\arrayrev\arrayrev\obj\Debug\netcoreapp3.1\arrayrev.dll
+C:\Users\admin\source\repos\arrayrev\arrayrev\obj\Debug\netcoreapp3.1\arrayrev.pdb

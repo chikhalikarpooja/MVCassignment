@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\Ass_Khansir_complexnumber\Ass_Khansir_complexnumber\bin\Debug\netcoreapp3.1\Ass_Khansir_complexnumber.exe
+C:\Users\admin\Desktop\pooja_C#.net\Ass_Khansir_complexnumber\Ass_Khansir_complexnumber\bin\Debug\netcoreapp3.1\Ass_Khansir_complexnumber.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\Ass_Khansir_complexnumber\Ass_Khansir_complexnumber\bin\Debug\netcoreapp3.1\Ass_Khansir_complexnumber.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\Ass_Khansir_complexnumber\Ass_Khansir_complexnumber\bin\Debug\netcoreapp3.1\Ass_Khansir_complexnumber.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\Ass_Khansir_complexnumber\Ass_Khansir_complexnumber\bin\Debug\netcoreapp3.1\Ass_Khansir_complexnumber.dll
+C:\Users\admin\Desktop\pooja_C#.net\Ass_Khansir_complexnumber\Ass_Khansir_complexnumber\bin\Debug\netcoreapp3.1\Ass_Khansir_complexnumber.pdb
+C:\Users\admin\Desktop\pooja_C#.net\Ass_Khansir_complexnumber\Ass_Khansir_complexnumber\obj\Debug\netcoreapp3.1\Ass_Khansir_complexnumber.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\Ass_Khansir_complexnumber\Ass_Khansir_complexnumber\obj\Debug\netcoreapp3.1\Ass_Khansir_complexnumber.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\Ass_Khansir_complexnumber\Ass_Khansir_complexnumber\obj\Debug\netcoreapp3.1\Ass_Khansir_complexnumber.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\Ass_Khansir_complexnumber\Ass_Khansir_complexnumber\obj\Debug\netcoreapp3.1\Ass_Khansir_complexnumber.dll
+C:\Users\admin\Desktop\pooja_C#.net\Ass_Khansir_complexnumber\Ass_Khansir_complexnumber\obj\Debug\netcoreapp3.1\Ass_Khansir_complexnumber.pdb
