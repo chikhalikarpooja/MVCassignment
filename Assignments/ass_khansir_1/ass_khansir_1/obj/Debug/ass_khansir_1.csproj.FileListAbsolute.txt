@@ -1,0 +1,6 @@
+E:\arati\ass_khansir_1\ass_khansir_1\bin\Debug\ass_khansir_1.exe.config
+E:\arati\ass_khansir_1\ass_khansir_1\bin\Debug\ass_khansir_1.exe
+E:\arati\ass_khansir_1\ass_khansir_1\bin\Debug\ass_khansir_1.pdb
+E:\arati\ass_khansir_1\ass_khansir_1\obj\Debug\ass_khansir_1.csprojResolveAssemblyReference.cache
+E:\arati\ass_khansir_1\ass_khansir_1\obj\Debug\ass_khansir_1.exe
+E:\arati\ass_khansir_1\ass_khansir_1\obj\Debug\ass_khansir_1.pdb

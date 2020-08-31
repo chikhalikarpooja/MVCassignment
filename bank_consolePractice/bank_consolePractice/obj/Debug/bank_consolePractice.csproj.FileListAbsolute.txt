@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\pooja_C#.net\bank_consolePractice\bank_consolePractice\bin\Debug\bank_consolePractice.exe.config
+C:\Users\admin\Desktop\pooja_C#.net\bank_consolePractice\bank_consolePractice\bin\Debug\bank_consolePractice.exe
+C:\Users\admin\Desktop\pooja_C#.net\bank_consolePractice\bank_consolePractice\bin\Debug\bank_consolePractice.pdb
+C:\Users\admin\Desktop\pooja_C#.net\bank_consolePractice\bank_consolePractice\obj\Debug\bank_consolePractice.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\bank_consolePractice\bank_consolePractice\obj\Debug\bank_consolePractice.exe
+C:\Users\admin\Desktop\pooja_C#.net\bank_consolePractice\bank_consolePractice\obj\Debug\bank_consolePractice.pdb
