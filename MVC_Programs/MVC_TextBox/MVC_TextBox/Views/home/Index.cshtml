@@ -1,0 +1,10 @@
+﻿@using MVC_TextBox.Models
+@model TextBox
+@{
+    ViewBag.Title = "Index";
+}
+
+@using (Html.BeginForm("Index", "home", FormMethod.Post))
+{
+    <b>Name: </b> @Html.TextBox("Name", "Enter Name", new { style = "color:red" })
+}
