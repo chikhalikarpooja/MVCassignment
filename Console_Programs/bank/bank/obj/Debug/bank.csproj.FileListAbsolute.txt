@@ -1,0 +1,6 @@
+E:\arati\bank\bank\bin\Debug\bank.exe.config
+E:\arati\bank\bank\bin\Debug\bank.exe
+E:\arati\bank\bank\bin\Debug\bank.pdb
+E:\arati\bank\bank\obj\Debug\bank.csprojResolveAssemblyReference.cache
+E:\arati\bank\bank\obj\Debug\bank.exe
+E:\arati\bank\bank\obj\Debug\bank.pdb

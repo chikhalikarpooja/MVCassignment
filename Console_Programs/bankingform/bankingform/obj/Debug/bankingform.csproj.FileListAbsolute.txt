@@ -1,0 +1,11 @@
+E:\arati\bankingform\bankingform\bin\Debug\bankingform.exe.config
+E:\arati\bankingform\bankingform\bin\Debug\bankingform.exe
+E:\arati\bankingform\bankingform\bin\Debug\bankingform.pdb
+E:\arati\bankingform\bankingform\bin\Debug\banklibrary.dll
+E:\arati\bankingform\bankingform\bin\Debug\banklibrary.pdb
+E:\arati\bankingform\bankingform\obj\Debug\bankingform.csprojResolveAssemblyReference.cache
+E:\arati\bankingform\bankingform\obj\Debug\bankingform.Form1.resources
+E:\arati\bankingform\bankingform\obj\Debug\bankingform.Properties.Resources.resources
+E:\arati\bankingform\bankingform\obj\Debug\bankingform.csproj.GenerateResource.Cache
+E:\arati\bankingform\bankingform\obj\Debug\bankingform.exe
+E:\arati\bankingform\bankingform\obj\Debug\bankingform.pdb

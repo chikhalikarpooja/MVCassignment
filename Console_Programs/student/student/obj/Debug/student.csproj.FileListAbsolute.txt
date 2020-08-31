@@ -1,0 +1,6 @@
+E:\arati\student\student\bin\Debug\student.exe.config
+E:\arati\student\student\bin\Debug\student.exe
+E:\arati\student\student\bin\Debug\student.pdb
+E:\arati\student\student\obj\Debug\student.csprojResolveAssemblyReference.cache
+E:\arati\student\student\obj\Debug\student.exe
+E:\arati\student\student\obj\Debug\student.pdb

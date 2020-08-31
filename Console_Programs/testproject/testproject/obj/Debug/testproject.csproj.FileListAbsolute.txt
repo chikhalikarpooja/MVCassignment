@@ -1,0 +1,6 @@
+E:\arati\testproject\testproject\bin\Debug\testproject.exe.config
+E:\arati\testproject\testproject\bin\Debug\testproject.exe
+E:\arati\testproject\testproject\bin\Debug\testproject.pdb
+E:\arati\testproject\testproject\obj\Debug\testproject.csprojResolveAssemblyReference.cache
+E:\arati\testproject\testproject\obj\Debug\testproject.exe
+E:\arati\testproject\testproject\obj\Debug\testproject.pdb

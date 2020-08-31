@@ -1,0 +1,5 @@
+E:\arati\staticconstructor\staticconstructor\bin\Debug\staticconstructor.exe.config
+E:\arati\staticconstructor\staticconstructor\bin\Debug\staticconstructor.exe
+E:\arati\staticconstructor\staticconstructor\bin\Debug\staticconstructor.pdb
+E:\arati\staticconstructor\staticconstructor\obj\Debug\staticconstructor.exe
+E:\arati\staticconstructor\staticconstructor\obj\Debug\staticconstructor.pdb

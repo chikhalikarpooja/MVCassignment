@@ -1,0 +1,9 @@
+E:\arati\stringmessage\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+E:\arati\stringmessage\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+E:\arati\stringmessage\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\arati\stringmessage\UnitTestProject1\bin\Debug\stringmessage.exe
+E:\arati\stringmessage\UnitTestProject1\bin\Debug\stringmessage.pdb
+E:\arati\stringmessage\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\arati\stringmessage\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+E:\arati\stringmessage\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+E:\arati\stringmessage\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

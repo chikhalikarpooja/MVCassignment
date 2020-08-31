@@ -1,0 +1,6 @@
+E:\arati\stringmessage\stringmessage\bin\Debug\stringmessage.exe.config
+E:\arati\stringmessage\stringmessage\bin\Debug\stringmessage.exe
+E:\arati\stringmessage\stringmessage\bin\Debug\stringmessage.pdb
+E:\arati\stringmessage\stringmessage\obj\Debug\stringmessage.csprojResolveAssemblyReference.cache
+E:\arati\stringmessage\stringmessage\obj\Debug\stringmessage.exe
+E:\arati\stringmessage\stringmessage\obj\Debug\stringmessage.pdb

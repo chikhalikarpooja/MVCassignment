@@ -1,0 +1,8 @@
+E:\arati\consolebank\consolebank\bin\Debug\consolebank.exe.config
+E:\arati\consolebank\consolebank\obj\Debug\consolebank.csprojResolveAssemblyReference.cache
+E:\arati\consolebank\consolebank\bin\Debug\consolebank.exe
+E:\arati\consolebank\consolebank\bin\Debug\consolebank.pdb
+E:\arati\consolebank\consolebank\bin\Debug\banklibrary.dll
+E:\arati\consolebank\consolebank\bin\Debug\banklibrary.pdb
+E:\arati\consolebank\consolebank\obj\Debug\consolebank.exe
+E:\arati\consolebank\consolebank\obj\Debug\consolebank.pdb

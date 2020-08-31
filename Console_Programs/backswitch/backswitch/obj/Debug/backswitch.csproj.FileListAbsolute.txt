@@ -1,0 +1,6 @@
+E:\arati\backswitch\backswitch\bin\Debug\backswitch.exe.config
+E:\arati\backswitch\backswitch\obj\Debug\backswitch.csprojResolveAssemblyReference.cache
+E:\arati\backswitch\backswitch\bin\Debug\backswitch.exe
+E:\arati\backswitch\backswitch\bin\Debug\backswitch.pdb
+E:\arati\backswitch\backswitch\obj\Debug\backswitch.exe
+E:\arati\backswitch\backswitch\obj\Debug\backswitch.pdb

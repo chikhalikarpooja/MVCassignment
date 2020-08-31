@@ -1,0 +1,6 @@
+E:\arati\sortingarray\sortingarray\bin\Debug\sortingarray.exe.config
+E:\arati\sortingarray\sortingarray\bin\Debug\sortingarray.exe
+E:\arati\sortingarray\sortingarray\bin\Debug\sortingarray.pdb
+E:\arati\sortingarray\sortingarray\obj\Debug\sortingarray.csprojResolveAssemblyReference.cache
+E:\arati\sortingarray\sortingarray\obj\Debug\sortingarray.exe
+E:\arati\sortingarray\sortingarray\obj\Debug\sortingarray.pdb
