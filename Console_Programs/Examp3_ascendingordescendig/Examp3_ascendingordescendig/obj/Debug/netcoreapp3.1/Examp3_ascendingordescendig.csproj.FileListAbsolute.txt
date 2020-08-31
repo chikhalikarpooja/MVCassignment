@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_ascendingordescendig\Examp3_ascendingordescendig\bin\Debug\netcoreapp3.1\Examp3_ascendingordescendig.exe
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_ascendingordescendig\Examp3_ascendingordescendig\bin\Debug\netcoreapp3.1\Examp3_ascendingordescendig.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_ascendingordescendig\Examp3_ascendingordescendig\bin\Debug\netcoreapp3.1\Examp3_ascendingordescendig.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_ascendingordescendig\Examp3_ascendingordescendig\bin\Debug\netcoreapp3.1\Examp3_ascendingordescendig.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_ascendingordescendig\Examp3_ascendingordescendig\bin\Debug\netcoreapp3.1\Examp3_ascendingordescendig.dll
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_ascendingordescendig\Examp3_ascendingordescendig\bin\Debug\netcoreapp3.1\Examp3_ascendingordescendig.pdb
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_ascendingordescendig\Examp3_ascendingordescendig\obj\Debug\netcoreapp3.1\Examp3_ascendingordescendig.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_ascendingordescendig\Examp3_ascendingordescendig\obj\Debug\netcoreapp3.1\Examp3_ascendingordescendig.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_ascendingordescendig\Examp3_ascendingordescendig\obj\Debug\netcoreapp3.1\Examp3_ascendingordescendig.dll
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_ascendingordescendig\Examp3_ascendingordescendig\obj\Debug\netcoreapp3.1\Examp3_ascendingordescendig.pdb

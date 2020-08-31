@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\exam2_employee\exam2_employee\bin\Debug\netcoreapp3.1\exam2_employee.exe
+C:\Users\admin\Desktop\pooja_C#.net\exam2_employee\exam2_employee\bin\Debug\netcoreapp3.1\exam2_employee.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\exam2_employee\exam2_employee\bin\Debug\netcoreapp3.1\exam2_employee.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\exam2_employee\exam2_employee\bin\Debug\netcoreapp3.1\exam2_employee.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\exam2_employee\exam2_employee\bin\Debug\netcoreapp3.1\exam2_employee.dll
+C:\Users\admin\Desktop\pooja_C#.net\exam2_employee\exam2_employee\bin\Debug\netcoreapp3.1\exam2_employee.pdb
+C:\Users\admin\Desktop\pooja_C#.net\exam2_employee\exam2_employee\obj\Debug\netcoreapp3.1\exam2_employee.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\exam2_employee\exam2_employee\obj\Debug\netcoreapp3.1\exam2_employee.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\exam2_employee\exam2_employee\obj\Debug\netcoreapp3.1\exam2_employee.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\exam2_employee\exam2_employee\obj\Debug\netcoreapp3.1\exam2_employee.dll
+C:\Users\admin\Desktop\pooja_C#.net\exam2_employee\exam2_employee\obj\Debug\netcoreapp3.1\exam2_employee.pdb

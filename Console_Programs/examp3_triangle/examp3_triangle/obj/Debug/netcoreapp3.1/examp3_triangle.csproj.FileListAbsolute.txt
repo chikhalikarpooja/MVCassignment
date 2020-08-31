@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\examp3_triangle\examp3_triangle\bin\Debug\netcoreapp3.1\examp3_triangle.exe
+C:\Users\admin\Desktop\pooja_C#.net\examp3_triangle\examp3_triangle\bin\Debug\netcoreapp3.1\examp3_triangle.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\examp3_triangle\examp3_triangle\bin\Debug\netcoreapp3.1\examp3_triangle.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\examp3_triangle\examp3_triangle\bin\Debug\netcoreapp3.1\examp3_triangle.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\examp3_triangle\examp3_triangle\bin\Debug\netcoreapp3.1\examp3_triangle.dll
+C:\Users\admin\Desktop\pooja_C#.net\examp3_triangle\examp3_triangle\bin\Debug\netcoreapp3.1\examp3_triangle.pdb
+C:\Users\admin\Desktop\pooja_C#.net\examp3_triangle\examp3_triangle\obj\Debug\netcoreapp3.1\examp3_triangle.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\examp3_triangle\examp3_triangle\obj\Debug\netcoreapp3.1\examp3_triangle.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\examp3_triangle\examp3_triangle\obj\Debug\netcoreapp3.1\examp3_triangle.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\examp3_triangle\examp3_triangle\obj\Debug\netcoreapp3.1\examp3_triangle.dll
+C:\Users\admin\Desktop\pooja_C#.net\examp3_triangle\examp3_triangle\obj\Debug\netcoreapp3.1\examp3_triangle.pdb

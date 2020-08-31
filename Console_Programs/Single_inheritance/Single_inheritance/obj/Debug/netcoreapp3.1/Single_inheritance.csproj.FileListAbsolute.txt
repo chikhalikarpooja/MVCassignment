@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\Single_inheritance\Single_inheritance\bin\Debug\netcoreapp3.1\Single_inheritance.exe
+C:\Users\admin\Desktop\pooja_C#.net\Single_inheritance\Single_inheritance\bin\Debug\netcoreapp3.1\Single_inheritance.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\Single_inheritance\Single_inheritance\bin\Debug\netcoreapp3.1\Single_inheritance.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\Single_inheritance\Single_inheritance\bin\Debug\netcoreapp3.1\Single_inheritance.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\Single_inheritance\Single_inheritance\bin\Debug\netcoreapp3.1\Single_inheritance.dll
+C:\Users\admin\Desktop\pooja_C#.net\Single_inheritance\Single_inheritance\bin\Debug\netcoreapp3.1\Single_inheritance.pdb
+C:\Users\admin\Desktop\pooja_C#.net\Single_inheritance\Single_inheritance\obj\Debug\netcoreapp3.1\Single_inheritance.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\Single_inheritance\Single_inheritance\obj\Debug\netcoreapp3.1\Single_inheritance.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\Single_inheritance\Single_inheritance\obj\Debug\netcoreapp3.1\Single_inheritance.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\Single_inheritance\Single_inheritance\obj\Debug\netcoreapp3.1\Single_inheritance.dll
+C:\Users\admin\Desktop\pooja_C#.net\Single_inheritance\Single_inheritance\obj\Debug\netcoreapp3.1\Single_inheritance.pdb

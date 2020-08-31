@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\factorialbyvalue\factorialbyvalue\bin\Debug\netcoreapp3.1\factorialbyvalue.exe
+C:\Users\admin\source\repos\factorialbyvalue\factorialbyvalue\bin\Debug\netcoreapp3.1\factorialbyvalue.deps.json
+C:\Users\admin\source\repos\factorialbyvalue\factorialbyvalue\bin\Debug\netcoreapp3.1\factorialbyvalue.runtimeconfig.json
+C:\Users\admin\source\repos\factorialbyvalue\factorialbyvalue\bin\Debug\netcoreapp3.1\factorialbyvalue.runtimeconfig.dev.json
+C:\Users\admin\source\repos\factorialbyvalue\factorialbyvalue\bin\Debug\netcoreapp3.1\factorialbyvalue.dll
+C:\Users\admin\source\repos\factorialbyvalue\factorialbyvalue\bin\Debug\netcoreapp3.1\factorialbyvalue.pdb
+C:\Users\admin\source\repos\factorialbyvalue\factorialbyvalue\obj\Debug\netcoreapp3.1\factorialbyvalue.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\factorialbyvalue\factorialbyvalue\obj\Debug\netcoreapp3.1\factorialbyvalue.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\factorialbyvalue\factorialbyvalue\obj\Debug\netcoreapp3.1\factorialbyvalue.AssemblyInfo.cs
+C:\Users\admin\source\repos\factorialbyvalue\factorialbyvalue\obj\Debug\netcoreapp3.1\factorialbyvalue.dll
+C:\Users\admin\source\repos\factorialbyvalue\factorialbyvalue\obj\Debug\netcoreapp3.1\factorialbyvalue.pdb

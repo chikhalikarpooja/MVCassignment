@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\TestCase_Example\TestCase_Example\obj\Debug\netcoreapp3.1\TestCase_Example.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\TestCase_Example\TestCase_Example\obj\Debug\netcoreapp3.1\TestCase_Example.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\TestCase_Example\TestCase_Example\obj\Debug\netcoreapp3.1\TestCase_Example.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\TestCase_Example\TestCase_Example\bin\Debug\netcoreapp3.1\TestCase_Example.exe
+C:\Users\admin\Desktop\pooja_C#.net\TestCase_Example\TestCase_Example\bin\Debug\netcoreapp3.1\TestCase_Example.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\TestCase_Example\TestCase_Example\bin\Debug\netcoreapp3.1\TestCase_Example.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\TestCase_Example\TestCase_Example\bin\Debug\netcoreapp3.1\TestCase_Example.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\TestCase_Example\TestCase_Example\bin\Debug\netcoreapp3.1\TestCase_Example.dll
+C:\Users\admin\Desktop\pooja_C#.net\TestCase_Example\TestCase_Example\bin\Debug\netcoreapp3.1\TestCase_Example.pdb
+C:\Users\admin\Desktop\pooja_C#.net\TestCase_Example\TestCase_Example\obj\Debug\netcoreapp3.1\TestCase_Example.dll
+C:\Users\admin\Desktop\pooja_C#.net\TestCase_Example\TestCase_Example\obj\Debug\netcoreapp3.1\TestCase_Example.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Examp2_range/1.0.0": {
+        "runtime": {
+          "Examp2_range.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Examp2_range/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

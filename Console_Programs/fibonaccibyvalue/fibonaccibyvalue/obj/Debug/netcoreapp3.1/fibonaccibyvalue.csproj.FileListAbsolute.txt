@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\fibonaccibyvalue\fibonaccibyvalue\bin\Debug\netcoreapp3.1\fibonaccibyvalue.exe
+C:\Users\admin\source\repos\fibonaccibyvalue\fibonaccibyvalue\bin\Debug\netcoreapp3.1\fibonaccibyvalue.deps.json
+C:\Users\admin\source\repos\fibonaccibyvalue\fibonaccibyvalue\bin\Debug\netcoreapp3.1\fibonaccibyvalue.runtimeconfig.json
+C:\Users\admin\source\repos\fibonaccibyvalue\fibonaccibyvalue\bin\Debug\netcoreapp3.1\fibonaccibyvalue.runtimeconfig.dev.json
+C:\Users\admin\source\repos\fibonaccibyvalue\fibonaccibyvalue\bin\Debug\netcoreapp3.1\fibonaccibyvalue.dll
+C:\Users\admin\source\repos\fibonaccibyvalue\fibonaccibyvalue\bin\Debug\netcoreapp3.1\fibonaccibyvalue.pdb
+C:\Users\admin\source\repos\fibonaccibyvalue\fibonaccibyvalue\obj\Debug\netcoreapp3.1\fibonaccibyvalue.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\fibonaccibyvalue\fibonaccibyvalue\obj\Debug\netcoreapp3.1\fibonaccibyvalue.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\fibonaccibyvalue\fibonaccibyvalue\obj\Debug\netcoreapp3.1\fibonaccibyvalue.AssemblyInfo.cs
+C:\Users\admin\source\repos\fibonaccibyvalue\fibonaccibyvalue\obj\Debug\netcoreapp3.1\fibonaccibyvalue.dll
+C:\Users\admin\source\repos\fibonaccibyvalue\fibonaccibyvalue\obj\Debug\netcoreapp3.1\fibonaccibyvalue.pdb

@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\pooja_C#.net\BankingWindForm\BankingWindForm\bin\Debug\BankingWindForm.exe.config
+C:\Users\admin\Desktop\pooja_C#.net\BankingWindForm\BankingWindForm\bin\Debug\BankingWindForm.exe
+C:\Users\admin\Desktop\pooja_C#.net\BankingWindForm\BankingWindForm\bin\Debug\BankingWindForm.pdb
+C:\Users\admin\Desktop\pooja_C#.net\BankingWindForm\BankingWindForm\bin\Debug\Banking_library.dll
+C:\Users\admin\Desktop\pooja_C#.net\BankingWindForm\BankingWindForm\bin\Debug\Banking_library.pdb
+C:\Users\admin\Desktop\pooja_C#.net\BankingWindForm\BankingWindForm\obj\Debug\BankingWindForm.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\BankingWindForm\BankingWindForm\obj\Debug\BankingWindForm.Form1.resources
+C:\Users\admin\Desktop\pooja_C#.net\BankingWindForm\BankingWindForm\obj\Debug\BankingWindForm.Properties.Resources.resources
+C:\Users\admin\Desktop\pooja_C#.net\BankingWindForm\BankingWindForm\obj\Debug\BankingWindForm.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\pooja_C#.net\BankingWindForm\BankingWindForm\obj\Debug\BankingWindForm.csproj.CopyComplete
+C:\Users\admin\Desktop\pooja_C#.net\BankingWindForm\BankingWindForm\obj\Debug\BankingWindForm.exe
+C:\Users\admin\Desktop\pooja_C#.net\BankingWindForm\BankingWindForm\obj\Debug\BankingWindForm.pdb

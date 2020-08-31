@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\khansir_assarray2\khansir_assarray2\bin\Debug\netcoreapp3.1\khansir_assarray2.exe
+C:\Users\admin\Desktop\pooja_C#.net\khansir_assarray2\khansir_assarray2\bin\Debug\netcoreapp3.1\khansir_assarray2.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\khansir_assarray2\khansir_assarray2\bin\Debug\netcoreapp3.1\khansir_assarray2.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\khansir_assarray2\khansir_assarray2\bin\Debug\netcoreapp3.1\khansir_assarray2.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\khansir_assarray2\khansir_assarray2\bin\Debug\netcoreapp3.1\khansir_assarray2.dll
+C:\Users\admin\Desktop\pooja_C#.net\khansir_assarray2\khansir_assarray2\bin\Debug\netcoreapp3.1\khansir_assarray2.pdb
+C:\Users\admin\Desktop\pooja_C#.net\khansir_assarray2\khansir_assarray2\obj\Debug\netcoreapp3.1\khansir_assarray2.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\khansir_assarray2\khansir_assarray2\obj\Debug\netcoreapp3.1\khansir_assarray2.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\khansir_assarray2\khansir_assarray2\obj\Debug\netcoreapp3.1\khansir_assarray2.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\khansir_assarray2\khansir_assarray2\obj\Debug\netcoreapp3.1\khansir_assarray2.dll
+C:\Users\admin\Desktop\pooja_C#.net\khansir_assarray2\khansir_assarray2\obj\Debug\netcoreapp3.1\khansir_assarray2.pdb

@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\examp3_avgmaths\examp3_avgmaths\bin\Debug\netcoreapp3.1\examp3_avgmaths.exe
+C:\Users\admin\Desktop\pooja_C#.net\examp3_avgmaths\examp3_avgmaths\bin\Debug\netcoreapp3.1\examp3_avgmaths.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\examp3_avgmaths\examp3_avgmaths\bin\Debug\netcoreapp3.1\examp3_avgmaths.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\examp3_avgmaths\examp3_avgmaths\bin\Debug\netcoreapp3.1\examp3_avgmaths.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\examp3_avgmaths\examp3_avgmaths\bin\Debug\netcoreapp3.1\examp3_avgmaths.dll
+C:\Users\admin\Desktop\pooja_C#.net\examp3_avgmaths\examp3_avgmaths\bin\Debug\netcoreapp3.1\examp3_avgmaths.pdb
+C:\Users\admin\Desktop\pooja_C#.net\examp3_avgmaths\examp3_avgmaths\obj\Debug\netcoreapp3.1\examp3_avgmaths.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\examp3_avgmaths\examp3_avgmaths\obj\Debug\netcoreapp3.1\examp3_avgmaths.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\examp3_avgmaths\examp3_avgmaths\obj\Debug\netcoreapp3.1\examp3_avgmaths.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\examp3_avgmaths\examp3_avgmaths\obj\Debug\netcoreapp3.1\examp3_avgmaths.dll
+C:\Users\admin\Desktop\pooja_C#.net\examp3_avgmaths\examp3_avgmaths\obj\Debug\netcoreapp3.1\examp3_avgmaths.pdb

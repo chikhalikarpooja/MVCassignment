@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\examp10_sqrt\examp10_sqrt\bin\Debug\netcoreapp3.1\examp10_sqrt.exe
+C:\Users\admin\Desktop\pooja_C#.net\examp10_sqrt\examp10_sqrt\bin\Debug\netcoreapp3.1\examp10_sqrt.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\examp10_sqrt\examp10_sqrt\bin\Debug\netcoreapp3.1\examp10_sqrt.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\examp10_sqrt\examp10_sqrt\bin\Debug\netcoreapp3.1\examp10_sqrt.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\examp10_sqrt\examp10_sqrt\bin\Debug\netcoreapp3.1\examp10_sqrt.dll
+C:\Users\admin\Desktop\pooja_C#.net\examp10_sqrt\examp10_sqrt\bin\Debug\netcoreapp3.1\examp10_sqrt.pdb
+C:\Users\admin\Desktop\pooja_C#.net\examp10_sqrt\examp10_sqrt\obj\Debug\netcoreapp3.1\examp10_sqrt.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\examp10_sqrt\examp10_sqrt\obj\Debug\netcoreapp3.1\examp10_sqrt.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\examp10_sqrt\examp10_sqrt\obj\Debug\netcoreapp3.1\examp10_sqrt.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\examp10_sqrt\examp10_sqrt\obj\Debug\netcoreapp3.1\examp10_sqrt.dll
+C:\Users\admin\Desktop\pooja_C#.net\examp10_sqrt\examp10_sqrt\obj\Debug\netcoreapp3.1\examp10_sqrt.pdb

@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\stringlencount\stringlencount\bin\Debug\netcoreapp3.1\stringlencount.exe
+C:\Users\admin\source\repos\stringlencount\stringlencount\bin\Debug\netcoreapp3.1\stringlencount.deps.json
+C:\Users\admin\source\repos\stringlencount\stringlencount\bin\Debug\netcoreapp3.1\stringlencount.runtimeconfig.json
+C:\Users\admin\source\repos\stringlencount\stringlencount\bin\Debug\netcoreapp3.1\stringlencount.runtimeconfig.dev.json
+C:\Users\admin\source\repos\stringlencount\stringlencount\bin\Debug\netcoreapp3.1\stringlencount.dll
+C:\Users\admin\source\repos\stringlencount\stringlencount\bin\Debug\netcoreapp3.1\stringlencount.pdb
+C:\Users\admin\source\repos\stringlencount\stringlencount\obj\Debug\netcoreapp3.1\stringlencount.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\stringlencount\stringlencount\obj\Debug\netcoreapp3.1\stringlencount.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\stringlencount\stringlencount\obj\Debug\netcoreapp3.1\stringlencount.AssemblyInfo.cs
+C:\Users\admin\source\repos\stringlencount\stringlencount\obj\Debug\netcoreapp3.1\stringlencount.dll
+C:\Users\admin\source\repos\stringlencount\stringlencount\obj\Debug\netcoreapp3.1\stringlencount.pdb

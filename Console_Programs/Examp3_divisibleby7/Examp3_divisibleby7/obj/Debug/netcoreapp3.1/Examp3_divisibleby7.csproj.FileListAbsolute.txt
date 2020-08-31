@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_divisibleby7\Examp3_divisibleby7\bin\Debug\netcoreapp3.1\Examp3_divisibleby7.exe
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_divisibleby7\Examp3_divisibleby7\bin\Debug\netcoreapp3.1\Examp3_divisibleby7.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_divisibleby7\Examp3_divisibleby7\bin\Debug\netcoreapp3.1\Examp3_divisibleby7.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_divisibleby7\Examp3_divisibleby7\bin\Debug\netcoreapp3.1\Examp3_divisibleby7.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_divisibleby7\Examp3_divisibleby7\bin\Debug\netcoreapp3.1\Examp3_divisibleby7.dll
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_divisibleby7\Examp3_divisibleby7\bin\Debug\netcoreapp3.1\Examp3_divisibleby7.pdb
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_divisibleby7\Examp3_divisibleby7\obj\Debug\netcoreapp3.1\Examp3_divisibleby7.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_divisibleby7\Examp3_divisibleby7\obj\Debug\netcoreapp3.1\Examp3_divisibleby7.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_divisibleby7\Examp3_divisibleby7\obj\Debug\netcoreapp3.1\Examp3_divisibleby7.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_divisibleby7\Examp3_divisibleby7\obj\Debug\netcoreapp3.1\Examp3_divisibleby7.dll
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_divisibleby7\Examp3_divisibleby7\obj\Debug\netcoreapp3.1\Examp3_divisibleby7.pdb

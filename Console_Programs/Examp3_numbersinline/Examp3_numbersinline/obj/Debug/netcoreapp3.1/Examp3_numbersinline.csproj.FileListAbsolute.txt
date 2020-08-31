@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_numbersinline\Examp3_numbersinline\bin\Debug\netcoreapp3.1\Examp3_numbersinline.exe
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_numbersinline\Examp3_numbersinline\bin\Debug\netcoreapp3.1\Examp3_numbersinline.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_numbersinline\Examp3_numbersinline\bin\Debug\netcoreapp3.1\Examp3_numbersinline.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_numbersinline\Examp3_numbersinline\bin\Debug\netcoreapp3.1\Examp3_numbersinline.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_numbersinline\Examp3_numbersinline\bin\Debug\netcoreapp3.1\Examp3_numbersinline.dll
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_numbersinline\Examp3_numbersinline\bin\Debug\netcoreapp3.1\Examp3_numbersinline.pdb
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_numbersinline\Examp3_numbersinline\obj\Debug\netcoreapp3.1\Examp3_numbersinline.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_numbersinline\Examp3_numbersinline\obj\Debug\netcoreapp3.1\Examp3_numbersinline.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_numbersinline\Examp3_numbersinline\obj\Debug\netcoreapp3.1\Examp3_numbersinline.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_numbersinline\Examp3_numbersinline\obj\Debug\netcoreapp3.1\Examp3_numbersinline.dll
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_numbersinline\Examp3_numbersinline\obj\Debug\netcoreapp3.1\Examp3_numbersinline.pdb

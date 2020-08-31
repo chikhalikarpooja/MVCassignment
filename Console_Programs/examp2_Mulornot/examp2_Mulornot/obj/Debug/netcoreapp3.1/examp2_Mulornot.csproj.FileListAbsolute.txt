@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\examp2_Mulornot\examp2_Mulornot\bin\Debug\netcoreapp3.1\examp2_Mulornot.exe
+C:\Users\admin\Desktop\pooja_C#.net\examp2_Mulornot\examp2_Mulornot\bin\Debug\netcoreapp3.1\examp2_Mulornot.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\examp2_Mulornot\examp2_Mulornot\bin\Debug\netcoreapp3.1\examp2_Mulornot.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\examp2_Mulornot\examp2_Mulornot\bin\Debug\netcoreapp3.1\examp2_Mulornot.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\examp2_Mulornot\examp2_Mulornot\bin\Debug\netcoreapp3.1\examp2_Mulornot.dll
+C:\Users\admin\Desktop\pooja_C#.net\examp2_Mulornot\examp2_Mulornot\bin\Debug\netcoreapp3.1\examp2_Mulornot.pdb
+C:\Users\admin\Desktop\pooja_C#.net\examp2_Mulornot\examp2_Mulornot\obj\Debug\netcoreapp3.1\examp2_Mulornot.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\examp2_Mulornot\examp2_Mulornot\obj\Debug\netcoreapp3.1\examp2_Mulornot.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\examp2_Mulornot\examp2_Mulornot\obj\Debug\netcoreapp3.1\examp2_Mulornot.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\examp2_Mulornot\examp2_Mulornot\obj\Debug\netcoreapp3.1\examp2_Mulornot.dll
+C:\Users\admin\Desktop\pooja_C#.net\examp2_Mulornot\examp2_Mulornot\obj\Debug\netcoreapp3.1\examp2_Mulornot.pdb

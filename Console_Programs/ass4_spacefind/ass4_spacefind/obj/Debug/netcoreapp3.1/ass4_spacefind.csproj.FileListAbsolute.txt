@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\ass4_spacefind\ass4_spacefind\bin\Debug\netcoreapp3.1\ass4_spacefind.exe
+C:\Users\admin\Desktop\pooja_C#.net\ass4_spacefind\ass4_spacefind\bin\Debug\netcoreapp3.1\ass4_spacefind.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\ass4_spacefind\ass4_spacefind\bin\Debug\netcoreapp3.1\ass4_spacefind.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\ass4_spacefind\ass4_spacefind\bin\Debug\netcoreapp3.1\ass4_spacefind.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\ass4_spacefind\ass4_spacefind\bin\Debug\netcoreapp3.1\ass4_spacefind.dll
+C:\Users\admin\Desktop\pooja_C#.net\ass4_spacefind\ass4_spacefind\bin\Debug\netcoreapp3.1\ass4_spacefind.pdb
+C:\Users\admin\Desktop\pooja_C#.net\ass4_spacefind\ass4_spacefind\obj\Debug\netcoreapp3.1\ass4_spacefind.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\ass4_spacefind\ass4_spacefind\obj\Debug\netcoreapp3.1\ass4_spacefind.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\ass4_spacefind\ass4_spacefind\obj\Debug\netcoreapp3.1\ass4_spacefind.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\ass4_spacefind\ass4_spacefind\obj\Debug\netcoreapp3.1\ass4_spacefind.dll
+C:\Users\admin\Desktop\pooja_C#.net\ass4_spacefind\ass4_spacefind\obj\Debug\netcoreapp3.1\ass4_spacefind.pdb

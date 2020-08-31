@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\helloprogram\helloprogram\bin\Debug\netcoreapp3.1\helloprogram.exe
+C:\Users\admin\source\repos\helloprogram\helloprogram\bin\Debug\netcoreapp3.1\helloprogram.deps.json
+C:\Users\admin\source\repos\helloprogram\helloprogram\bin\Debug\netcoreapp3.1\helloprogram.runtimeconfig.json
+C:\Users\admin\source\repos\helloprogram\helloprogram\bin\Debug\netcoreapp3.1\helloprogram.runtimeconfig.dev.json
+C:\Users\admin\source\repos\helloprogram\helloprogram\bin\Debug\netcoreapp3.1\helloprogram.dll
+C:\Users\admin\source\repos\helloprogram\helloprogram\bin\Debug\netcoreapp3.1\helloprogram.pdb
+C:\Users\admin\source\repos\helloprogram\helloprogram\obj\Debug\netcoreapp3.1\helloprogram.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\helloprogram\helloprogram\obj\Debug\netcoreapp3.1\helloprogram.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\helloprogram\helloprogram\obj\Debug\netcoreapp3.1\helloprogram.AssemblyInfo.cs
+C:\Users\admin\source\repos\helloprogram\helloprogram\obj\Debug\netcoreapp3.1\helloprogram.dll
+C:\Users\admin\source\repos\helloprogram\helloprogram\obj\Debug\netcoreapp3.1\helloprogram.pdb

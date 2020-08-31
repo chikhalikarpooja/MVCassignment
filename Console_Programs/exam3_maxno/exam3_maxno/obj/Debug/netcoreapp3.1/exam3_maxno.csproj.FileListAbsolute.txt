@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\pooja_C#.net\exam3_maxno\exam3_maxno\bin\Debug\netcoreapp3.1\exam3_maxno.exe
+C:\Users\admin\Desktop\pooja_C#.net\exam3_maxno\exam3_maxno\bin\Debug\netcoreapp3.1\exam3_maxno.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\exam3_maxno\exam3_maxno\bin\Debug\netcoreapp3.1\exam3_maxno.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\exam3_maxno\exam3_maxno\bin\Debug\netcoreapp3.1\exam3_maxno.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\exam3_maxno\exam3_maxno\bin\Debug\netcoreapp3.1\exam3_maxno.dll
+C:\Users\admin\Desktop\pooja_C#.net\exam3_maxno\exam3_maxno\bin\Debug\netcoreapp3.1\exam3_maxno.pdb
+C:\Users\admin\Desktop\pooja_C#.net\exam3_maxno\exam3_maxno\obj\Debug\netcoreapp3.1\exam3_maxno.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\exam3_maxno\exam3_maxno\obj\Debug\netcoreapp3.1\exam3_maxno.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\exam3_maxno\exam3_maxno\obj\Debug\netcoreapp3.1\exam3_maxno.dll
+C:\Users\admin\Desktop\pooja_C#.net\exam3_maxno\exam3_maxno\obj\Debug\netcoreapp3.1\exam3_maxno.pdb

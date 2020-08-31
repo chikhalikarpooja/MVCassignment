@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_\Examp2_\bin\Debug\netcoreapp3.1\Examp2_range.exe
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_\Examp2_\bin\Debug\netcoreapp3.1\Examp2_range.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_\Examp2_\bin\Debug\netcoreapp3.1\Examp2_range.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_\Examp2_\bin\Debug\netcoreapp3.1\Examp2_range.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_\Examp2_\bin\Debug\netcoreapp3.1\Examp2_range.dll
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_\Examp2_\bin\Debug\netcoreapp3.1\Examp2_range.pdb
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_\Examp2_\obj\Debug\netcoreapp3.1\Examp2_range.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_\Examp2_\obj\Debug\netcoreapp3.1\Examp2_range.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_\Examp2_\obj\Debug\netcoreapp3.1\Examp2_range.dll
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_\Examp2_\obj\Debug\netcoreapp3.1\Examp2_range.pdb

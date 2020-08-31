@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_Sumfoddnum\Examp2_Sumfoddnum\bin\Debug\netcoreapp3.1\Examp2_Sumfoddnum.exe
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_Sumfoddnum\Examp2_Sumfoddnum\bin\Debug\netcoreapp3.1\Examp2_Sumfoddnum.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_Sumfoddnum\Examp2_Sumfoddnum\bin\Debug\netcoreapp3.1\Examp2_Sumfoddnum.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_Sumfoddnum\Examp2_Sumfoddnum\bin\Debug\netcoreapp3.1\Examp2_Sumfoddnum.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_Sumfoddnum\Examp2_Sumfoddnum\bin\Debug\netcoreapp3.1\Examp2_Sumfoddnum.dll
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_Sumfoddnum\Examp2_Sumfoddnum\bin\Debug\netcoreapp3.1\Examp2_Sumfoddnum.pdb
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_Sumfoddnum\Examp2_Sumfoddnum\obj\Debug\netcoreapp3.1\Examp2_Sumfoddnum.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_Sumfoddnum\Examp2_Sumfoddnum\obj\Debug\netcoreapp3.1\Examp2_Sumfoddnum.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_Sumfoddnum\Examp2_Sumfoddnum\obj\Debug\netcoreapp3.1\Examp2_Sumfoddnum.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_Sumfoddnum\Examp2_Sumfoddnum\obj\Debug\netcoreapp3.1\Examp2_Sumfoddnum.dll
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_Sumfoddnum\Examp2_Sumfoddnum\obj\Debug\netcoreapp3.1\Examp2_Sumfoddnum.pdb

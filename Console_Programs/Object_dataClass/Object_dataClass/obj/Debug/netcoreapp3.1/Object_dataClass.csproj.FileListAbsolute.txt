@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\pooja_C#.net\Object_dataClass\Object_dataClass\bin\Debug\netcoreapp3.1\Object_dataClass.exe
+C:\Users\admin\Desktop\pooja_C#.net\Object_dataClass\Object_dataClass\bin\Debug\netcoreapp3.1\Object_dataClass.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\Object_dataClass\Object_dataClass\bin\Debug\netcoreapp3.1\Object_dataClass.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\Object_dataClass\Object_dataClass\bin\Debug\netcoreapp3.1\Object_dataClass.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\Object_dataClass\Object_dataClass\bin\Debug\netcoreapp3.1\Object_dataClass.dll
+C:\Users\admin\Desktop\pooja_C#.net\Object_dataClass\Object_dataClass\bin\Debug\netcoreapp3.1\Object_dataClass.pdb
+C:\Users\admin\Desktop\pooja_C#.net\Object_dataClass\Object_dataClass\obj\Debug\netcoreapp3.1\Object_dataClass.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\Object_dataClass\Object_dataClass\obj\Debug\netcoreapp3.1\Object_dataClass.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\Object_dataClass\Object_dataClass\obj\Debug\netcoreapp3.1\Object_dataClass.dll
+C:\Users\admin\Desktop\pooja_C#.net\Object_dataClass\Object_dataClass\obj\Debug\netcoreapp3.1\Object_dataClass.pdb

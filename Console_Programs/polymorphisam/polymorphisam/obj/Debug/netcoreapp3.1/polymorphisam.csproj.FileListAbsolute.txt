@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\polymorphisam\polymorphisam\bin\Debug\netcoreapp3.1\polymorphisam.exe
+C:\Users\admin\Desktop\pooja_C#.net\polymorphisam\polymorphisam\bin\Debug\netcoreapp3.1\polymorphisam.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\polymorphisam\polymorphisam\bin\Debug\netcoreapp3.1\polymorphisam.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\polymorphisam\polymorphisam\bin\Debug\netcoreapp3.1\polymorphisam.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\polymorphisam\polymorphisam\bin\Debug\netcoreapp3.1\polymorphisam.dll
+C:\Users\admin\Desktop\pooja_C#.net\polymorphisam\polymorphisam\bin\Debug\netcoreapp3.1\polymorphisam.pdb
+C:\Users\admin\Desktop\pooja_C#.net\polymorphisam\polymorphisam\obj\Debug\netcoreapp3.1\polymorphisam.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\polymorphisam\polymorphisam\obj\Debug\netcoreapp3.1\polymorphisam.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\polymorphisam\polymorphisam\obj\Debug\netcoreapp3.1\polymorphisam.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\polymorphisam\polymorphisam\obj\Debug\netcoreapp3.1\polymorphisam.dll
+C:\Users\admin\Desktop\pooja_C#.net\polymorphisam\polymorphisam\obj\Debug\netcoreapp3.1\polymorphisam.pdb

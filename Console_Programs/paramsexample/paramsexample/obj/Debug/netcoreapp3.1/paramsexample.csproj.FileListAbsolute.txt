@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\paramsexample\paramsexample\bin\Debug\netcoreapp3.1\paramsexample.exe
+C:\Users\admin\source\repos\paramsexample\paramsexample\bin\Debug\netcoreapp3.1\paramsexample.deps.json
+C:\Users\admin\source\repos\paramsexample\paramsexample\bin\Debug\netcoreapp3.1\paramsexample.runtimeconfig.json
+C:\Users\admin\source\repos\paramsexample\paramsexample\bin\Debug\netcoreapp3.1\paramsexample.runtimeconfig.dev.json
+C:\Users\admin\source\repos\paramsexample\paramsexample\bin\Debug\netcoreapp3.1\paramsexample.dll
+C:\Users\admin\source\repos\paramsexample\paramsexample\bin\Debug\netcoreapp3.1\paramsexample.pdb
+C:\Users\admin\source\repos\paramsexample\paramsexample\obj\Debug\netcoreapp3.1\paramsexample.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\paramsexample\paramsexample\obj\Debug\netcoreapp3.1\paramsexample.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\paramsexample\paramsexample\obj\Debug\netcoreapp3.1\paramsexample.AssemblyInfo.cs
+C:\Users\admin\source\repos\paramsexample\paramsexample\obj\Debug\netcoreapp3.1\paramsexample.dll
+C:\Users\admin\source\repos\paramsexample\paramsexample\obj\Debug\netcoreapp3.1\paramsexample.pdb

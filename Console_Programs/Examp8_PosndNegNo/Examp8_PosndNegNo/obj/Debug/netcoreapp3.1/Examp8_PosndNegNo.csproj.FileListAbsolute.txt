@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\Examp8_PosndNegNo\Examp8_PosndNegNo\bin\Debug\netcoreapp3.1\Examp8_PosndNegNo.exe
+C:\Users\admin\Desktop\pooja_C#.net\Examp8_PosndNegNo\Examp8_PosndNegNo\bin\Debug\netcoreapp3.1\Examp8_PosndNegNo.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp8_PosndNegNo\Examp8_PosndNegNo\bin\Debug\netcoreapp3.1\Examp8_PosndNegNo.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp8_PosndNegNo\Examp8_PosndNegNo\bin\Debug\netcoreapp3.1\Examp8_PosndNegNo.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp8_PosndNegNo\Examp8_PosndNegNo\bin\Debug\netcoreapp3.1\Examp8_PosndNegNo.dll
+C:\Users\admin\Desktop\pooja_C#.net\Examp8_PosndNegNo\Examp8_PosndNegNo\bin\Debug\netcoreapp3.1\Examp8_PosndNegNo.pdb
+C:\Users\admin\Desktop\pooja_C#.net\Examp8_PosndNegNo\Examp8_PosndNegNo\obj\Debug\netcoreapp3.1\Examp8_PosndNegNo.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\Examp8_PosndNegNo\Examp8_PosndNegNo\obj\Debug\netcoreapp3.1\Examp8_PosndNegNo.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\Examp8_PosndNegNo\Examp8_PosndNegNo\obj\Debug\netcoreapp3.1\Examp8_PosndNegNo.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\Examp8_PosndNegNo\Examp8_PosndNegNo\obj\Debug\netcoreapp3.1\Examp8_PosndNegNo.dll
+C:\Users\admin\Desktop\pooja_C#.net\Examp8_PosndNegNo\Examp8_PosndNegNo\obj\Debug\netcoreapp3.1\Examp8_PosndNegNo.pdb

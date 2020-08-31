@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\exam10_bhaskar\exam10_bhaskar\bin\Debug\netcoreapp3.1\exam10_bhaskar.exe
+C:\Users\admin\Desktop\pooja_C#.net\exam10_bhaskar\exam10_bhaskar\bin\Debug\netcoreapp3.1\exam10_bhaskar.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\exam10_bhaskar\exam10_bhaskar\bin\Debug\netcoreapp3.1\exam10_bhaskar.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\exam10_bhaskar\exam10_bhaskar\bin\Debug\netcoreapp3.1\exam10_bhaskar.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\exam10_bhaskar\exam10_bhaskar\bin\Debug\netcoreapp3.1\exam10_bhaskar.dll
+C:\Users\admin\Desktop\pooja_C#.net\exam10_bhaskar\exam10_bhaskar\bin\Debug\netcoreapp3.1\exam10_bhaskar.pdb
+C:\Users\admin\Desktop\pooja_C#.net\exam10_bhaskar\exam10_bhaskar\obj\Debug\netcoreapp3.1\exam10_bhaskar.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\exam10_bhaskar\exam10_bhaskar\obj\Debug\netcoreapp3.1\exam10_bhaskar.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\exam10_bhaskar\exam10_bhaskar\obj\Debug\netcoreapp3.1\exam10_bhaskar.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\exam10_bhaskar\exam10_bhaskar\obj\Debug\netcoreapp3.1\exam10_bhaskar.dll
+C:\Users\admin\Desktop\pooja_C#.net\exam10_bhaskar\exam10_bhaskar\obj\Debug\netcoreapp3.1\exam10_bhaskar.pdb

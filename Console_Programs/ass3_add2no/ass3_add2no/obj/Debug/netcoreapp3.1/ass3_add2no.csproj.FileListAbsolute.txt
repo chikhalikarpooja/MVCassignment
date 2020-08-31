@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\ass3_add2no\ass3_add2no\bin\Debug\netcoreapp3.1\ass3_add2no.exe
+C:\Users\admin\Desktop\pooja_C#.net\ass3_add2no\ass3_add2no\bin\Debug\netcoreapp3.1\ass3_add2no.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\ass3_add2no\ass3_add2no\bin\Debug\netcoreapp3.1\ass3_add2no.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\ass3_add2no\ass3_add2no\bin\Debug\netcoreapp3.1\ass3_add2no.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\ass3_add2no\ass3_add2no\bin\Debug\netcoreapp3.1\ass3_add2no.dll
+C:\Users\admin\Desktop\pooja_C#.net\ass3_add2no\ass3_add2no\bin\Debug\netcoreapp3.1\ass3_add2no.pdb
+C:\Users\admin\Desktop\pooja_C#.net\ass3_add2no\ass3_add2no\obj\Debug\netcoreapp3.1\ass3_add2no.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\ass3_add2no\ass3_add2no\obj\Debug\netcoreapp3.1\ass3_add2no.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\ass3_add2no\ass3_add2no\obj\Debug\netcoreapp3.1\ass3_add2no.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\ass3_add2no\ass3_add2no\obj\Debug\netcoreapp3.1\ass3_add2no.dll
+C:\Users\admin\Desktop\pooja_C#.net\ass3_add2no\ass3_add2no\obj\Debug\netcoreapp3.1\ass3_add2no.pdb

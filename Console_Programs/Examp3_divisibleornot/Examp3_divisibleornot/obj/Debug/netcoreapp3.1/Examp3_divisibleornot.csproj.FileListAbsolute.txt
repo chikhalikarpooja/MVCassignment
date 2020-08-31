@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_divisibleornot\Examp3_divisibleornot\bin\Debug\netcoreapp3.1\Examp3_divisibleornot.exe
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_divisibleornot\Examp3_divisibleornot\bin\Debug\netcoreapp3.1\Examp3_divisibleornot.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_divisibleornot\Examp3_divisibleornot\bin\Debug\netcoreapp3.1\Examp3_divisibleornot.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_divisibleornot\Examp3_divisibleornot\bin\Debug\netcoreapp3.1\Examp3_divisibleornot.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_divisibleornot\Examp3_divisibleornot\bin\Debug\netcoreapp3.1\Examp3_divisibleornot.dll
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_divisibleornot\Examp3_divisibleornot\bin\Debug\netcoreapp3.1\Examp3_divisibleornot.pdb
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_divisibleornot\Examp3_divisibleornot\obj\Debug\netcoreapp3.1\Examp3_divisibleornot.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_divisibleornot\Examp3_divisibleornot\obj\Debug\netcoreapp3.1\Examp3_divisibleornot.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_divisibleornot\Examp3_divisibleornot\obj\Debug\netcoreapp3.1\Examp3_divisibleornot.dll
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_divisibleornot\Examp3_divisibleornot\obj\Debug\netcoreapp3.1\Examp3_divisibleornot.pdb

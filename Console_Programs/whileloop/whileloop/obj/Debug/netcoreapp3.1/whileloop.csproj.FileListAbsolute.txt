@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\whileloop\whileloop\bin\Debug\netcoreapp3.1\whileloop.exe
+C:\Users\admin\source\repos\whileloop\whileloop\bin\Debug\netcoreapp3.1\whileloop.deps.json
+C:\Users\admin\source\repos\whileloop\whileloop\bin\Debug\netcoreapp3.1\whileloop.runtimeconfig.json
+C:\Users\admin\source\repos\whileloop\whileloop\bin\Debug\netcoreapp3.1\whileloop.runtimeconfig.dev.json
+C:\Users\admin\source\repos\whileloop\whileloop\bin\Debug\netcoreapp3.1\whileloop.dll
+C:\Users\admin\source\repos\whileloop\whileloop\bin\Debug\netcoreapp3.1\whileloop.pdb
+C:\Users\admin\source\repos\whileloop\whileloop\obj\Debug\netcoreapp3.1\whileloop.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\whileloop\whileloop\obj\Debug\netcoreapp3.1\whileloop.AssemblyInfo.cs
+C:\Users\admin\source\repos\whileloop\whileloop\obj\Debug\netcoreapp3.1\whileloop.dll
+C:\Users\admin\source\repos\whileloop\whileloop\obj\Debug\netcoreapp3.1\whileloop.pdb

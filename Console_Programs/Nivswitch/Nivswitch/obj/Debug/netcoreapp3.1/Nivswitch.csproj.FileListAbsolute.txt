@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\Nivswitch\Nivswitch\bin\Debug\netcoreapp3.1\Nivswitch.exe
+C:\Users\admin\source\repos\Nivswitch\Nivswitch\bin\Debug\netcoreapp3.1\Nivswitch.deps.json
+C:\Users\admin\source\repos\Nivswitch\Nivswitch\bin\Debug\netcoreapp3.1\Nivswitch.runtimeconfig.json
+C:\Users\admin\source\repos\Nivswitch\Nivswitch\bin\Debug\netcoreapp3.1\Nivswitch.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Nivswitch\Nivswitch\bin\Debug\netcoreapp3.1\Nivswitch.dll
+C:\Users\admin\source\repos\Nivswitch\Nivswitch\bin\Debug\netcoreapp3.1\Nivswitch.pdb
+C:\Users\admin\source\repos\Nivswitch\Nivswitch\obj\Debug\netcoreapp3.1\Nivswitch.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Nivswitch\Nivswitch\obj\Debug\netcoreapp3.1\Nivswitch.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Nivswitch\Nivswitch\obj\Debug\netcoreapp3.1\Nivswitch.AssemblyInfo.cs
+C:\Users\admin\source\repos\Nivswitch\Nivswitch\obj\Debug\netcoreapp3.1\Nivswitch.dll
+C:\Users\admin\source\repos\Nivswitch\Nivswitch\obj\Debug\netcoreapp3.1\Nivswitch.pdb

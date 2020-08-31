@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\pressenter\pressenter\bin\Debug\netcoreapp3.1\pressenter.exe
+C:\Users\admin\source\repos\pressenter\pressenter\bin\Debug\netcoreapp3.1\pressenter.deps.json
+C:\Users\admin\source\repos\pressenter\pressenter\bin\Debug\netcoreapp3.1\pressenter.runtimeconfig.json
+C:\Users\admin\source\repos\pressenter\pressenter\bin\Debug\netcoreapp3.1\pressenter.runtimeconfig.dev.json
+C:\Users\admin\source\repos\pressenter\pressenter\bin\Debug\netcoreapp3.1\pressenter.dll
+C:\Users\admin\source\repos\pressenter\pressenter\bin\Debug\netcoreapp3.1\pressenter.pdb
+C:\Users\admin\source\repos\pressenter\pressenter\obj\Debug\netcoreapp3.1\pressenter.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\pressenter\pressenter\obj\Debug\netcoreapp3.1\pressenter.AssemblyInfo.cs
+C:\Users\admin\source\repos\pressenter\pressenter\obj\Debug\netcoreapp3.1\pressenter.dll
+C:\Users\admin\source\repos\pressenter\pressenter\obj\Debug\netcoreapp3.1\pressenter.pdb

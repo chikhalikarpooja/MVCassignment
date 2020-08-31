@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_co-rdinates\Examp3_co-rdinates\bin\Debug\netcoreapp3.1\Examp3_co-rdinates.exe
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_co-rdinates\Examp3_co-rdinates\bin\Debug\netcoreapp3.1\Examp3_co-rdinates.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_co-rdinates\Examp3_co-rdinates\bin\Debug\netcoreapp3.1\Examp3_co-rdinates.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_co-rdinates\Examp3_co-rdinates\bin\Debug\netcoreapp3.1\Examp3_co-rdinates.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_co-rdinates\Examp3_co-rdinates\bin\Debug\netcoreapp3.1\Examp3_co-rdinates.dll
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_co-rdinates\Examp3_co-rdinates\bin\Debug\netcoreapp3.1\Examp3_co-rdinates.pdb
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_co-rdinates\Examp3_co-rdinates\obj\Debug\netcoreapp3.1\Examp3_co-rdinates.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_co-rdinates\Examp3_co-rdinates\obj\Debug\netcoreapp3.1\Examp3_co-rdinates.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_co-rdinates\Examp3_co-rdinates\obj\Debug\netcoreapp3.1\Examp3_co-rdinates.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_co-rdinates\Examp3_co-rdinates\obj\Debug\netcoreapp3.1\Examp3_co-rdinates.dll
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_co-rdinates\Examp3_co-rdinates\obj\Debug\netcoreapp3.1\Examp3_co-rdinates.pdb

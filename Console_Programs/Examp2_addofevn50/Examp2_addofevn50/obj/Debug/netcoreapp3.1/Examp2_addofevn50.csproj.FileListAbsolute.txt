@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_addofevn50\Examp2_addofevn50\bin\Debug\netcoreapp3.1\Examp2_addofevn50.exe
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_addofevn50\Examp2_addofevn50\bin\Debug\netcoreapp3.1\Examp2_addofevn50.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_addofevn50\Examp2_addofevn50\bin\Debug\netcoreapp3.1\Examp2_addofevn50.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_addofevn50\Examp2_addofevn50\bin\Debug\netcoreapp3.1\Examp2_addofevn50.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_addofevn50\Examp2_addofevn50\bin\Debug\netcoreapp3.1\Examp2_addofevn50.dll
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_addofevn50\Examp2_addofevn50\bin\Debug\netcoreapp3.1\Examp2_addofevn50.pdb
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_addofevn50\Examp2_addofevn50\obj\Debug\netcoreapp3.1\Examp2_addofevn50.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_addofevn50\Examp2_addofevn50\obj\Debug\netcoreapp3.1\Examp2_addofevn50.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_addofevn50\Examp2_addofevn50\obj\Debug\netcoreapp3.1\Examp2_addofevn50.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_addofevn50\Examp2_addofevn50\obj\Debug\netcoreapp3.1\Examp2_addofevn50.dll
+C:\Users\admin\Desktop\pooja_C#.net\Examp2_addofevn50\Examp2_addofevn50\obj\Debug\netcoreapp3.1\Examp2_addofevn50.pdb

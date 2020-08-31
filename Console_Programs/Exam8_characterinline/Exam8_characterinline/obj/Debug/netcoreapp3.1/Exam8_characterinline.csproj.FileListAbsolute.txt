@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\Exam8_characterinline\Exam8_characterinline\bin\Debug\netcoreapp3.1\Exam8_characterinline.exe
+C:\Users\admin\Desktop\pooja_C#.net\Exam8_characterinline\Exam8_characterinline\bin\Debug\netcoreapp3.1\Exam8_characterinline.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\Exam8_characterinline\Exam8_characterinline\bin\Debug\netcoreapp3.1\Exam8_characterinline.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\Exam8_characterinline\Exam8_characterinline\bin\Debug\netcoreapp3.1\Exam8_characterinline.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\Exam8_characterinline\Exam8_characterinline\bin\Debug\netcoreapp3.1\Exam8_characterinline.dll
+C:\Users\admin\Desktop\pooja_C#.net\Exam8_characterinline\Exam8_characterinline\bin\Debug\netcoreapp3.1\Exam8_characterinline.pdb
+C:\Users\admin\Desktop\pooja_C#.net\Exam8_characterinline\Exam8_characterinline\obj\Debug\netcoreapp3.1\Exam8_characterinline.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\Exam8_characterinline\Exam8_characterinline\obj\Debug\netcoreapp3.1\Exam8_characterinline.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\Exam8_characterinline\Exam8_characterinline\obj\Debug\netcoreapp3.1\Exam8_characterinline.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\Exam8_characterinline\Exam8_characterinline\obj\Debug\netcoreapp3.1\Exam8_characterinline.dll
+C:\Users\admin\Desktop\pooja_C#.net\Exam8_characterinline\Exam8_characterinline\obj\Debug\netcoreapp3.1\Exam8_characterinline.pdb

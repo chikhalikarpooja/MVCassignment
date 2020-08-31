@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\structcontructor\structcontructor\bin\Debug\netcoreapp3.1\structcontructor.exe
+C:\Users\admin\source\repos\structcontructor\structcontructor\bin\Debug\netcoreapp3.1\structcontructor.deps.json
+C:\Users\admin\source\repos\structcontructor\structcontructor\bin\Debug\netcoreapp3.1\structcontructor.runtimeconfig.json
+C:\Users\admin\source\repos\structcontructor\structcontructor\bin\Debug\netcoreapp3.1\structcontructor.runtimeconfig.dev.json
+C:\Users\admin\source\repos\structcontructor\structcontructor\bin\Debug\netcoreapp3.1\structcontructor.dll
+C:\Users\admin\source\repos\structcontructor\structcontructor\bin\Debug\netcoreapp3.1\structcontructor.pdb
+C:\Users\admin\source\repos\structcontructor\structcontructor\obj\Debug\netcoreapp3.1\structcontructor.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\structcontructor\structcontructor\obj\Debug\netcoreapp3.1\structcontructor.AssemblyInfo.cs
+C:\Users\admin\source\repos\structcontructor\structcontructor\obj\Debug\netcoreapp3.1\structcontructor.dll
+C:\Users\admin\source\repos\structcontructor\structcontructor\obj\Debug\netcoreapp3.1\structcontructor.pdb

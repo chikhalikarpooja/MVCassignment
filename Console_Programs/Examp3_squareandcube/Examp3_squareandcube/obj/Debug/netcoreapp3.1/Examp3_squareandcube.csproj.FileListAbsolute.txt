@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_squareandcube\Examp3_squareandcube\bin\Debug\netcoreapp3.1\Examp3_squareandcube.exe
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_squareandcube\Examp3_squareandcube\bin\Debug\netcoreapp3.1\Examp3_squareandcube.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_squareandcube\Examp3_squareandcube\bin\Debug\netcoreapp3.1\Examp3_squareandcube.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_squareandcube\Examp3_squareandcube\bin\Debug\netcoreapp3.1\Examp3_squareandcube.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_squareandcube\Examp3_squareandcube\bin\Debug\netcoreapp3.1\Examp3_squareandcube.dll
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_squareandcube\Examp3_squareandcube\bin\Debug\netcoreapp3.1\Examp3_squareandcube.pdb
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_squareandcube\Examp3_squareandcube\obj\Debug\netcoreapp3.1\Examp3_squareandcube.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_squareandcube\Examp3_squareandcube\obj\Debug\netcoreapp3.1\Examp3_squareandcube.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_squareandcube\Examp3_squareandcube\obj\Debug\netcoreapp3.1\Examp3_squareandcube.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_squareandcube\Examp3_squareandcube\obj\Debug\netcoreapp3.1\Examp3_squareandcube.dll
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_squareandcube\Examp3_squareandcube\obj\Debug\netcoreapp3.1\Examp3_squareandcube.pdb

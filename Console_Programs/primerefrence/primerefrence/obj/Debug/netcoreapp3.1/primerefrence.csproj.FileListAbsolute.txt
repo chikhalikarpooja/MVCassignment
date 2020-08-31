@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\primerefrence\primerefrence\bin\Debug\netcoreapp3.1\primerefrence.exe
+C:\Users\admin\source\repos\primerefrence\primerefrence\bin\Debug\netcoreapp3.1\primerefrence.deps.json
+C:\Users\admin\source\repos\primerefrence\primerefrence\bin\Debug\netcoreapp3.1\primerefrence.runtimeconfig.json
+C:\Users\admin\source\repos\primerefrence\primerefrence\bin\Debug\netcoreapp3.1\primerefrence.runtimeconfig.dev.json
+C:\Users\admin\source\repos\primerefrence\primerefrence\bin\Debug\netcoreapp3.1\primerefrence.dll
+C:\Users\admin\source\repos\primerefrence\primerefrence\bin\Debug\netcoreapp3.1\primerefrence.pdb
+C:\Users\admin\source\repos\primerefrence\primerefrence\obj\Debug\netcoreapp3.1\primerefrence.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\primerefrence\primerefrence\obj\Debug\netcoreapp3.1\primerefrence.AssemblyInfo.cs
+C:\Users\admin\source\repos\primerefrence\primerefrence\obj\Debug\netcoreapp3.1\primerefrence.dll
+C:\Users\admin\source\repos\primerefrence\primerefrence\obj\Debug\netcoreapp3.1\primerefrence.pdb

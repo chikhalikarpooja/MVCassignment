@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\usingforeach\usingforeach\bin\Debug\netcoreapp3.1\usingforeach.exe
+C:\Users\admin\source\repos\usingforeach\usingforeach\bin\Debug\netcoreapp3.1\usingforeach.deps.json
+C:\Users\admin\source\repos\usingforeach\usingforeach\bin\Debug\netcoreapp3.1\usingforeach.runtimeconfig.json
+C:\Users\admin\source\repos\usingforeach\usingforeach\bin\Debug\netcoreapp3.1\usingforeach.runtimeconfig.dev.json
+C:\Users\admin\source\repos\usingforeach\usingforeach\bin\Debug\netcoreapp3.1\usingforeach.dll
+C:\Users\admin\source\repos\usingforeach\usingforeach\bin\Debug\netcoreapp3.1\usingforeach.pdb
+C:\Users\admin\source\repos\usingforeach\usingforeach\obj\Debug\netcoreapp3.1\usingforeach.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\usingforeach\usingforeach\obj\Debug\netcoreapp3.1\usingforeach.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\usingforeach\usingforeach\obj\Debug\netcoreapp3.1\usingforeach.AssemblyInfo.cs
+C:\Users\admin\source\repos\usingforeach\usingforeach\obj\Debug\netcoreapp3.1\usingforeach.dll
+C:\Users\admin\source\repos\usingforeach\usingforeach\obj\Debug\netcoreapp3.1\usingforeach.pdb

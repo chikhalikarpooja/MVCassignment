@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\pooja_C#.net\String_passing\String_passing\bin\Debug\netcoreapp3.1\String_passing.exe
+C:\Users\admin\Desktop\pooja_C#.net\String_passing\String_passing\bin\Debug\netcoreapp3.1\String_passing.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\String_passing\String_passing\bin\Debug\netcoreapp3.1\String_passing.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\String_passing\String_passing\bin\Debug\netcoreapp3.1\String_passing.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\String_passing\String_passing\bin\Debug\netcoreapp3.1\String_passing.dll
+C:\Users\admin\Desktop\pooja_C#.net\String_passing\String_passing\bin\Debug\netcoreapp3.1\String_passing.pdb
+C:\Users\admin\Desktop\pooja_C#.net\String_passing\String_passing\obj\Debug\netcoreapp3.1\String_passing.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\String_passing\String_passing\obj\Debug\netcoreapp3.1\String_passing.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\String_passing\String_passing\obj\Debug\netcoreapp3.1\String_passing.dll
+C:\Users\admin\Desktop\pooja_C#.net\String_passing\String_passing\obj\Debug\netcoreapp3.1\String_passing.pdb

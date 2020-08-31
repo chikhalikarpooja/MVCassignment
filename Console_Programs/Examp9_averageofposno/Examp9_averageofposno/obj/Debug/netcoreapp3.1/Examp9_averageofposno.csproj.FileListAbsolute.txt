@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\Examp9_averageofposno\Examp9_averageofposno\bin\Debug\netcoreapp3.1\Examp9_averageofposno.exe
+C:\Users\admin\Desktop\pooja_C#.net\Examp9_averageofposno\Examp9_averageofposno\bin\Debug\netcoreapp3.1\Examp9_averageofposno.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp9_averageofposno\Examp9_averageofposno\bin\Debug\netcoreapp3.1\Examp9_averageofposno.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp9_averageofposno\Examp9_averageofposno\bin\Debug\netcoreapp3.1\Examp9_averageofposno.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp9_averageofposno\Examp9_averageofposno\bin\Debug\netcoreapp3.1\Examp9_averageofposno.dll
+C:\Users\admin\Desktop\pooja_C#.net\Examp9_averageofposno\Examp9_averageofposno\bin\Debug\netcoreapp3.1\Examp9_averageofposno.pdb
+C:\Users\admin\Desktop\pooja_C#.net\Examp9_averageofposno\Examp9_averageofposno\obj\Debug\netcoreapp3.1\Examp9_averageofposno.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\Examp9_averageofposno\Examp9_averageofposno\obj\Debug\netcoreapp3.1\Examp9_averageofposno.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\Examp9_averageofposno\Examp9_averageofposno\obj\Debug\netcoreapp3.1\Examp9_averageofposno.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\Examp9_averageofposno\Examp9_averageofposno\obj\Debug\netcoreapp3.1\Examp9_averageofposno.dll
+C:\Users\admin\Desktop\pooja_C#.net\Examp9_averageofposno\Examp9_averageofposno\obj\Debug\netcoreapp3.1\Examp9_averageofposno.pdb

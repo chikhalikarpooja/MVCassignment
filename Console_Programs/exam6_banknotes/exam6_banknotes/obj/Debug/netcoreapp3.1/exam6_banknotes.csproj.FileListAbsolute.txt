@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\exam6_banknotes\exam6_banknotes\bin\Debug\netcoreapp3.1\exam6_banknotes.exe
+C:\Users\admin\Desktop\pooja_C#.net\exam6_banknotes\exam6_banknotes\bin\Debug\netcoreapp3.1\exam6_banknotes.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\exam6_banknotes\exam6_banknotes\bin\Debug\netcoreapp3.1\exam6_banknotes.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\exam6_banknotes\exam6_banknotes\bin\Debug\netcoreapp3.1\exam6_banknotes.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\exam6_banknotes\exam6_banknotes\bin\Debug\netcoreapp3.1\exam6_banknotes.dll
+C:\Users\admin\Desktop\pooja_C#.net\exam6_banknotes\exam6_banknotes\bin\Debug\netcoreapp3.1\exam6_banknotes.pdb
+C:\Users\admin\Desktop\pooja_C#.net\exam6_banknotes\exam6_banknotes\obj\Debug\netcoreapp3.1\exam6_banknotes.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\exam6_banknotes\exam6_banknotes\obj\Debug\netcoreapp3.1\exam6_banknotes.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\exam6_banknotes\exam6_banknotes\obj\Debug\netcoreapp3.1\exam6_banknotes.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\exam6_banknotes\exam6_banknotes\obj\Debug\netcoreapp3.1\exam6_banknotes.dll
+C:\Users\admin\Desktop\pooja_C#.net\exam6_banknotes\exam6_banknotes\obj\Debug\netcoreapp3.1\exam6_banknotes.pdb

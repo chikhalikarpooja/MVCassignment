@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_divisible17\Examp3_divisible17\bin\Debug\netcoreapp3.1\Examp3_divisible17.exe
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_divisible17\Examp3_divisible17\bin\Debug\netcoreapp3.1\Examp3_divisible17.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_divisible17\Examp3_divisible17\bin\Debug\netcoreapp3.1\Examp3_divisible17.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_divisible17\Examp3_divisible17\bin\Debug\netcoreapp3.1\Examp3_divisible17.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_divisible17\Examp3_divisible17\bin\Debug\netcoreapp3.1\Examp3_divisible17.dll
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_divisible17\Examp3_divisible17\bin\Debug\netcoreapp3.1\Examp3_divisible17.pdb
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_divisible17\Examp3_divisible17\obj\Debug\netcoreapp3.1\Examp3_divisible17.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_divisible17\Examp3_divisible17\obj\Debug\netcoreapp3.1\Examp3_divisible17.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_divisible17\Examp3_divisible17\obj\Debug\netcoreapp3.1\Examp3_divisible17.dll
+C:\Users\admin\Desktop\pooja_C#.net\Examp3_divisible17\Examp3_divisible17\obj\Debug\netcoreapp3.1\Examp3_divisible17.pdb

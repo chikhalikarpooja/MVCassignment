@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\exam1_average\exam1_average\bin\Debug\netcoreapp3.1\exam1_average.exe
+C:\Users\admin\Desktop\pooja_C#.net\exam1_average\exam1_average\bin\Debug\netcoreapp3.1\exam1_average.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\exam1_average\exam1_average\bin\Debug\netcoreapp3.1\exam1_average.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\exam1_average\exam1_average\bin\Debug\netcoreapp3.1\exam1_average.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\exam1_average\exam1_average\bin\Debug\netcoreapp3.1\exam1_average.dll
+C:\Users\admin\Desktop\pooja_C#.net\exam1_average\exam1_average\bin\Debug\netcoreapp3.1\exam1_average.pdb
+C:\Users\admin\Desktop\pooja_C#.net\exam1_average\exam1_average\obj\Debug\netcoreapp3.1\exam1_average.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\exam1_average\exam1_average\obj\Debug\netcoreapp3.1\exam1_average.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\exam1_average\exam1_average\obj\Debug\netcoreapp3.1\exam1_average.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\exam1_average\exam1_average\obj\Debug\netcoreapp3.1\exam1_average.dll
+C:\Users\admin\Desktop\pooja_C#.net\exam1_average\exam1_average\obj\Debug\netcoreapp3.1\exam1_average.pdb

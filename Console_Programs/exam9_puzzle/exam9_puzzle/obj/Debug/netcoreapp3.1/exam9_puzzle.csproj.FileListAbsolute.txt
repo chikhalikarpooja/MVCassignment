@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\exam9_puzzle\exam9_puzzle\bin\Debug\netcoreapp3.1\exam9_puzzle.exe
+C:\Users\admin\Desktop\pooja_C#.net\exam9_puzzle\exam9_puzzle\bin\Debug\netcoreapp3.1\exam9_puzzle.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\exam9_puzzle\exam9_puzzle\bin\Debug\netcoreapp3.1\exam9_puzzle.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\exam9_puzzle\exam9_puzzle\bin\Debug\netcoreapp3.1\exam9_puzzle.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\exam9_puzzle\exam9_puzzle\bin\Debug\netcoreapp3.1\exam9_puzzle.dll
+C:\Users\admin\Desktop\pooja_C#.net\exam9_puzzle\exam9_puzzle\bin\Debug\netcoreapp3.1\exam9_puzzle.pdb
+C:\Users\admin\Desktop\pooja_C#.net\exam9_puzzle\exam9_puzzle\obj\Debug\netcoreapp3.1\exam9_puzzle.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\exam9_puzzle\exam9_puzzle\obj\Debug\netcoreapp3.1\exam9_puzzle.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\exam9_puzzle\exam9_puzzle\obj\Debug\netcoreapp3.1\exam9_puzzle.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\exam9_puzzle\exam9_puzzle\obj\Debug\netcoreapp3.1\exam9_puzzle.dll
+C:\Users\admin\Desktop\pooja_C#.net\exam9_puzzle\exam9_puzzle\obj\Debug\netcoreapp3.1\exam9_puzzle.pdb

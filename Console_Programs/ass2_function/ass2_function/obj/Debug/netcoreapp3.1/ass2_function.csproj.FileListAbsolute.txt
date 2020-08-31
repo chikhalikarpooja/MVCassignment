@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\ass2_function\ass2_function\bin\Debug\netcoreapp3.1\ass2_function.exe
+C:\Users\admin\Desktop\pooja_C#.net\ass2_function\ass2_function\bin\Debug\netcoreapp3.1\ass2_function.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\ass2_function\ass2_function\bin\Debug\netcoreapp3.1\ass2_function.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\ass2_function\ass2_function\bin\Debug\netcoreapp3.1\ass2_function.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\ass2_function\ass2_function\bin\Debug\netcoreapp3.1\ass2_function.dll
+C:\Users\admin\Desktop\pooja_C#.net\ass2_function\ass2_function\bin\Debug\netcoreapp3.1\ass2_function.pdb
+C:\Users\admin\Desktop\pooja_C#.net\ass2_function\ass2_function\obj\Debug\netcoreapp3.1\ass2_function.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\ass2_function\ass2_function\obj\Debug\netcoreapp3.1\ass2_function.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\ass2_function\ass2_function\obj\Debug\netcoreapp3.1\ass2_function.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\ass2_function\ass2_function\obj\Debug\netcoreapp3.1\ass2_function.dll
+C:\Users\admin\Desktop\pooja_C#.net\ass2_function\ass2_function\obj\Debug\netcoreapp3.1\ass2_function.pdb

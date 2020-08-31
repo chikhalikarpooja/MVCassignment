@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "examp2_Mulornot/1.0.0": {
+        "runtime": {
+          "examp2_Mulornot.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "examp2_Mulornot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

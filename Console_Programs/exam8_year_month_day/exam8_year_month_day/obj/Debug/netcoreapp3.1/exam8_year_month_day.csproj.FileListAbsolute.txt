@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\exam8_year_month_day\exam8_year_month_day\bin\Debug\netcoreapp3.1\exam8_year_month_day.exe
+C:\Users\admin\Desktop\pooja_C#.net\exam8_year_month_day\exam8_year_month_day\bin\Debug\netcoreapp3.1\exam8_year_month_day.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\exam8_year_month_day\exam8_year_month_day\bin\Debug\netcoreapp3.1\exam8_year_month_day.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\exam8_year_month_day\exam8_year_month_day\bin\Debug\netcoreapp3.1\exam8_year_month_day.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\exam8_year_month_day\exam8_year_month_day\bin\Debug\netcoreapp3.1\exam8_year_month_day.dll
+C:\Users\admin\Desktop\pooja_C#.net\exam8_year_month_day\exam8_year_month_day\bin\Debug\netcoreapp3.1\exam8_year_month_day.pdb
+C:\Users\admin\Desktop\pooja_C#.net\exam8_year_month_day\exam8_year_month_day\obj\Debug\netcoreapp3.1\exam8_year_month_day.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\exam8_year_month_day\exam8_year_month_day\obj\Debug\netcoreapp3.1\exam8_year_month_day.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\exam8_year_month_day\exam8_year_month_day\obj\Debug\netcoreapp3.1\exam8_year_month_day.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\exam8_year_month_day\exam8_year_month_day\obj\Debug\netcoreapp3.1\exam8_year_month_day.dll
+C:\Users\admin\Desktop\pooja_C#.net\exam8_year_month_day\exam8_year_month_day\obj\Debug\netcoreapp3.1\exam8_year_month_day.pdb

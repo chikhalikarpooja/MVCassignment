@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\pooja_C#.net\exam7_convrthour\exam7_convrthour\bin\Debug\netcoreapp3.1\exam7_convrthour.exe
+C:\Users\admin\Desktop\pooja_C#.net\exam7_convrthour\exam7_convrthour\bin\Debug\netcoreapp3.1\exam7_convrthour.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\exam7_convrthour\exam7_convrthour\bin\Debug\netcoreapp3.1\exam7_convrthour.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\exam7_convrthour\exam7_convrthour\bin\Debug\netcoreapp3.1\exam7_convrthour.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\exam7_convrthour\exam7_convrthour\bin\Debug\netcoreapp3.1\exam7_convrthour.dll
+C:\Users\admin\Desktop\pooja_C#.net\exam7_convrthour\exam7_convrthour\bin\Debug\netcoreapp3.1\exam7_convrthour.pdb
+C:\Users\admin\Desktop\pooja_C#.net\exam7_convrthour\exam7_convrthour\obj\Debug\netcoreapp3.1\exam7_convrthour.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\exam7_convrthour\exam7_convrthour\obj\Debug\netcoreapp3.1\exam7_convrthour.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\exam7_convrthour\exam7_convrthour\obj\Debug\netcoreapp3.1\exam7_convrthour.dll
+C:\Users\admin\Desktop\pooja_C#.net\exam7_convrthour\exam7_convrthour\obj\Debug\netcoreapp3.1\exam7_convrthour.pdb

@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\khansir_ass5\khansir_ass5\bin\Debug\netcoreapp3.1\khansir_ass5.exe
+C:\Users\admin\Desktop\pooja_C#.net\khansir_ass5\khansir_ass5\bin\Debug\netcoreapp3.1\khansir_ass5.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\khansir_ass5\khansir_ass5\bin\Debug\netcoreapp3.1\khansir_ass5.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\khansir_ass5\khansir_ass5\bin\Debug\netcoreapp3.1\khansir_ass5.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\khansir_ass5\khansir_ass5\bin\Debug\netcoreapp3.1\khansir_ass5.dll
+C:\Users\admin\Desktop\pooja_C#.net\khansir_ass5\khansir_ass5\bin\Debug\netcoreapp3.1\khansir_ass5.pdb
+C:\Users\admin\Desktop\pooja_C#.net\khansir_ass5\khansir_ass5\obj\Debug\netcoreapp3.1\khansir_ass5.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\khansir_ass5\khansir_ass5\obj\Debug\netcoreapp3.1\khansir_ass5.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\khansir_ass5\khansir_ass5\obj\Debug\netcoreapp3.1\khansir_ass5.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\khansir_ass5\khansir_ass5\obj\Debug\netcoreapp3.1\khansir_ass5.dll
+C:\Users\admin\Desktop\pooja_C#.net\khansir_ass5\khansir_ass5\obj\Debug\netcoreapp3.1\khansir_ass5.pdb

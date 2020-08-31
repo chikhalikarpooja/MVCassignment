@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\khansirass3_AreaOFTriangle\khansirass3_AreaOFTriangle\bin\Debug\netcoreapp3.1\khansirass3_AreaOFTriangle.exe
+C:\Users\admin\Desktop\pooja_C#.net\khansirass3_AreaOFTriangle\khansirass3_AreaOFTriangle\bin\Debug\netcoreapp3.1\khansirass3_AreaOFTriangle.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\khansirass3_AreaOFTriangle\khansirass3_AreaOFTriangle\bin\Debug\netcoreapp3.1\khansirass3_AreaOFTriangle.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\khansirass3_AreaOFTriangle\khansirass3_AreaOFTriangle\bin\Debug\netcoreapp3.1\khansirass3_AreaOFTriangle.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\khansirass3_AreaOFTriangle\khansirass3_AreaOFTriangle\bin\Debug\netcoreapp3.1\khansirass3_AreaOFTriangle.dll
+C:\Users\admin\Desktop\pooja_C#.net\khansirass3_AreaOFTriangle\khansirass3_AreaOFTriangle\bin\Debug\netcoreapp3.1\khansirass3_AreaOFTriangle.pdb
+C:\Users\admin\Desktop\pooja_C#.net\khansirass3_AreaOFTriangle\khansirass3_AreaOFTriangle\obj\Debug\netcoreapp3.1\khansirass3_AreaOFTriangle.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\khansirass3_AreaOFTriangle\khansirass3_AreaOFTriangle\obj\Debug\netcoreapp3.1\khansirass3_AreaOFTriangle.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\khansirass3_AreaOFTriangle\khansirass3_AreaOFTriangle\obj\Debug\netcoreapp3.1\khansirass3_AreaOFTriangle.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\khansirass3_AreaOFTriangle\khansirass3_AreaOFTriangle\obj\Debug\netcoreapp3.1\khansirass3_AreaOFTriangle.dll
+C:\Users\admin\Desktop\pooja_C#.net\khansirass3_AreaOFTriangle\khansirass3_AreaOFTriangle\obj\Debug\netcoreapp3.1\khansirass3_AreaOFTriangle.pdb

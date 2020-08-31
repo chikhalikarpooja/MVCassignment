@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\switchexmp\switchexmp\bin\Debug\netcoreapp3.1\switchexmp.exe
+C:\Users\admin\source\repos\switchexmp\switchexmp\bin\Debug\netcoreapp3.1\switchexmp.deps.json
+C:\Users\admin\source\repos\switchexmp\switchexmp\bin\Debug\netcoreapp3.1\switchexmp.runtimeconfig.json
+C:\Users\admin\source\repos\switchexmp\switchexmp\bin\Debug\netcoreapp3.1\switchexmp.runtimeconfig.dev.json
+C:\Users\admin\source\repos\switchexmp\switchexmp\bin\Debug\netcoreapp3.1\switchexmp.dll
+C:\Users\admin\source\repos\switchexmp\switchexmp\bin\Debug\netcoreapp3.1\switchexmp.pdb
+C:\Users\admin\source\repos\switchexmp\switchexmp\obj\Debug\netcoreapp3.1\switchexmp.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\switchexmp\switchexmp\obj\Debug\netcoreapp3.1\switchexmp.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\switchexmp\switchexmp\obj\Debug\netcoreapp3.1\switchexmp.AssemblyInfo.cs
+C:\Users\admin\source\repos\switchexmp\switchexmp\obj\Debug\netcoreapp3.1\switchexmp.dll
+C:\Users\admin\source\repos\switchexmp\switchexmp\obj\Debug\netcoreapp3.1\switchexmp.pdb

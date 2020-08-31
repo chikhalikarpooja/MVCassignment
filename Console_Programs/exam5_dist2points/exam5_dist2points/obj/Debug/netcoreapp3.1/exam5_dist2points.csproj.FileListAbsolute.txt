@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\pooja_C#.net\exam5_dist2points\exam5_dist2points\bin\Debug\netcoreapp3.1\exam5_dist2points.exe
+C:\Users\admin\Desktop\pooja_C#.net\exam5_dist2points\exam5_dist2points\bin\Debug\netcoreapp3.1\exam5_dist2points.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\exam5_dist2points\exam5_dist2points\bin\Debug\netcoreapp3.1\exam5_dist2points.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\exam5_dist2points\exam5_dist2points\bin\Debug\netcoreapp3.1\exam5_dist2points.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\exam5_dist2points\exam5_dist2points\bin\Debug\netcoreapp3.1\exam5_dist2points.dll
+C:\Users\admin\Desktop\pooja_C#.net\exam5_dist2points\exam5_dist2points\bin\Debug\netcoreapp3.1\exam5_dist2points.pdb
+C:\Users\admin\Desktop\pooja_C#.net\exam5_dist2points\exam5_dist2points\obj\Debug\netcoreapp3.1\exam5_dist2points.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\exam5_dist2points\exam5_dist2points\obj\Debug\netcoreapp3.1\exam5_dist2points.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\exam5_dist2points\exam5_dist2points\obj\Debug\netcoreapp3.1\exam5_dist2points.dll
+C:\Users\admin\Desktop\pooja_C#.net\exam5_dist2points\exam5_dist2points\obj\Debug\netcoreapp3.1\exam5_dist2points.pdb

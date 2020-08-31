@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\pooja_C#.net\Examp5_yearinenglish\Examp5_yearinenglish\bin\Debug\netcoreapp3.1\Examp5_yearinenglish.exe
+C:\Users\admin\Desktop\pooja_C#.net\Examp5_yearinenglish\Examp5_yearinenglish\bin\Debug\netcoreapp3.1\Examp5_yearinenglish.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp5_yearinenglish\Examp5_yearinenglish\bin\Debug\netcoreapp3.1\Examp5_yearinenglish.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp5_yearinenglish\Examp5_yearinenglish\bin\Debug\netcoreapp3.1\Examp5_yearinenglish.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\Examp5_yearinenglish\Examp5_yearinenglish\bin\Debug\netcoreapp3.1\Examp5_yearinenglish.dll
+C:\Users\admin\Desktop\pooja_C#.net\Examp5_yearinenglish\Examp5_yearinenglish\bin\Debug\netcoreapp3.1\Examp5_yearinenglish.pdb
+C:\Users\admin\Desktop\pooja_C#.net\Examp5_yearinenglish\Examp5_yearinenglish\obj\Debug\netcoreapp3.1\Examp5_yearinenglish.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\Examp5_yearinenglish\Examp5_yearinenglish\obj\Debug\netcoreapp3.1\Examp5_yearinenglish.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\Examp5_yearinenglish\Examp5_yearinenglish\obj\Debug\netcoreapp3.1\Examp5_yearinenglish.dll
+C:\Users\admin\Desktop\pooja_C#.net\Examp5_yearinenglish\Examp5_yearinenglish\obj\Debug\netcoreapp3.1\Examp5_yearinenglish.pdb

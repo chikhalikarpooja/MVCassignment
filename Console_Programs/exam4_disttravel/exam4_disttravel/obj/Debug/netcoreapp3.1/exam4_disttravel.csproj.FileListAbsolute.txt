@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\exam4_disttravel\exam4_disttravel\bin\Debug\netcoreapp3.1\exam4_disttravel.exe
+C:\Users\admin\Desktop\pooja_C#.net\exam4_disttravel\exam4_disttravel\bin\Debug\netcoreapp3.1\exam4_disttravel.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\exam4_disttravel\exam4_disttravel\bin\Debug\netcoreapp3.1\exam4_disttravel.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\exam4_disttravel\exam4_disttravel\bin\Debug\netcoreapp3.1\exam4_disttravel.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\exam4_disttravel\exam4_disttravel\bin\Debug\netcoreapp3.1\exam4_disttravel.dll
+C:\Users\admin\Desktop\pooja_C#.net\exam4_disttravel\exam4_disttravel\bin\Debug\netcoreapp3.1\exam4_disttravel.pdb
+C:\Users\admin\Desktop\pooja_C#.net\exam4_disttravel\exam4_disttravel\obj\Debug\netcoreapp3.1\exam4_disttravel.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\exam4_disttravel\exam4_disttravel\obj\Debug\netcoreapp3.1\exam4_disttravel.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\exam4_disttravel\exam4_disttravel\obj\Debug\netcoreapp3.1\exam4_disttravel.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\exam4_disttravel\exam4_disttravel\obj\Debug\netcoreapp3.1\exam4_disttravel.dll
+C:\Users\admin\Desktop\pooja_C#.net\exam4_disttravel\exam4_disttravel\obj\Debug\netcoreapp3.1\exam4_disttravel.pdb

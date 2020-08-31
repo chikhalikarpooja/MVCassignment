@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\ass4_2valueofs\ass4_2valueofs\bin\Debug\netcoreapp3.1\ass4_2valueofs.exe
+C:\Users\admin\Desktop\pooja_C#.net\ass4_2valueofs\ass4_2valueofs\bin\Debug\netcoreapp3.1\ass4_2valueofs.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\ass4_2valueofs\ass4_2valueofs\bin\Debug\netcoreapp3.1\ass4_2valueofs.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\ass4_2valueofs\ass4_2valueofs\bin\Debug\netcoreapp3.1\ass4_2valueofs.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\ass4_2valueofs\ass4_2valueofs\bin\Debug\netcoreapp3.1\ass4_2valueofs.dll
+C:\Users\admin\Desktop\pooja_C#.net\ass4_2valueofs\ass4_2valueofs\bin\Debug\netcoreapp3.1\ass4_2valueofs.pdb
+C:\Users\admin\Desktop\pooja_C#.net\ass4_2valueofs\ass4_2valueofs\obj\Debug\netcoreapp3.1\ass4_2valueofs.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\ass4_2valueofs\ass4_2valueofs\obj\Debug\netcoreapp3.1\ass4_2valueofs.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\ass4_2valueofs\ass4_2valueofs\obj\Debug\netcoreapp3.1\ass4_2valueofs.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\ass4_2valueofs\ass4_2valueofs\obj\Debug\netcoreapp3.1\ass4_2valueofs.dll
+C:\Users\admin\Desktop\pooja_C#.net\ass4_2valueofs\ass4_2valueofs\obj\Debug\netcoreapp3.1\ass4_2valueofs.pdb

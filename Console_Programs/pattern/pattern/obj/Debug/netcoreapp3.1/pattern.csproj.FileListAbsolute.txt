@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\pattern\pattern\bin\Debug\netcoreapp3.1\pattern.exe
+C:\Users\admin\source\repos\pattern\pattern\bin\Debug\netcoreapp3.1\pattern.deps.json
+C:\Users\admin\source\repos\pattern\pattern\bin\Debug\netcoreapp3.1\pattern.runtimeconfig.json
+C:\Users\admin\source\repos\pattern\pattern\bin\Debug\netcoreapp3.1\pattern.runtimeconfig.dev.json
+C:\Users\admin\source\repos\pattern\pattern\bin\Debug\netcoreapp3.1\pattern.dll
+C:\Users\admin\source\repos\pattern\pattern\bin\Debug\netcoreapp3.1\pattern.pdb
+C:\Users\admin\source\repos\pattern\pattern\obj\Debug\netcoreapp3.1\pattern.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\pattern\pattern\obj\Debug\netcoreapp3.1\pattern.AssemblyInfo.cs
+C:\Users\admin\source\repos\pattern\pattern\obj\Debug\netcoreapp3.1\pattern.dll
+C:\Users\admin\source\repos\pattern\pattern\obj\Debug\netcoreapp3.1\pattern.pdb
+C:\Users\admin\source\repos\pattern\pattern\obj\Debug\netcoreapp3.1\pattern.csprojAssemblyReference.cache
