@@ -1,0 +1,10 @@
+C:\Users\PUJA\source\repos\Ado.net_DB\Ado.net_DB\bin\Debug\Ado.net_DB.exe.config
+C:\Users\PUJA\source\repos\Ado.net_DB\Ado.net_DB\bin\Debug\Ado.net_DB.exe
+C:\Users\PUJA\source\repos\Ado.net_DB\Ado.net_DB\bin\Debug\Ado.net_DB.pdb
+C:\Users\PUJA\source\repos\Ado.net_DB\Ado.net_DB\obj\Debug\Ado.net_DB.csprojAssemblyReference.cache
+C:\Users\PUJA\source\repos\Ado.net_DB\Ado.net_DB\obj\Debug\Ado.net_DB.Form1.resources
+C:\Users\PUJA\source\repos\Ado.net_DB\Ado.net_DB\obj\Debug\Ado.net_DB.Properties.Resources.resources
+C:\Users\PUJA\source\repos\Ado.net_DB\Ado.net_DB\obj\Debug\Ado.net_DB.csproj.GenerateResource.cache
+C:\Users\PUJA\source\repos\Ado.net_DB\Ado.net_DB\obj\Debug\Ado.net_DB.csproj.CoreCompileInputs.cache
+C:\Users\PUJA\source\repos\Ado.net_DB\Ado.net_DB\obj\Debug\Ado.net_DB.exe
+C:\Users\PUJA\source\repos\Ado.net_DB\Ado.net_DB\obj\Debug\Ado.net_DB.pdb

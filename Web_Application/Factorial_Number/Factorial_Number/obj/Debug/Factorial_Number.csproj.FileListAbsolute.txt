@@ -1,0 +1,6 @@
+C:\Users\PUJA\source\repos\Factorial_Number\Factorial_Number\bin\Debug\Factorial_Number.exe.config
+C:\Users\PUJA\source\repos\Factorial_Number\Factorial_Number\bin\Debug\Factorial_Number.exe
+C:\Users\PUJA\source\repos\Factorial_Number\Factorial_Number\bin\Debug\Factorial_Number.pdb
+C:\Users\PUJA\source\repos\Factorial_Number\Factorial_Number\obj\Debug\Factorial_Number.csproj.CoreCompileInputs.cache
+C:\Users\PUJA\source\repos\Factorial_Number\Factorial_Number\obj\Debug\Factorial_Number.exe
+C:\Users\PUJA\source\repos\Factorial_Number\Factorial_Number\obj\Debug\Factorial_Number.pdb

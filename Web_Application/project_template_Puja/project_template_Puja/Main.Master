@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="project_template_Puja.Main" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            font-size: x-large;
+        }
+        .auto-style2 {
+            font-size: x-large;
+            margin-left: 480px;
+        }
+        .auto-style3 {
+            font-size: medium;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                <p class="auto-style1">
+                    <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mk Placement</strong></p>
+                <p class="auto-style2">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                        <asp:HyperLink ID="HyperLink1" runat="server" CssClass="auto-style3">Signup</asp:HyperLink>
+&nbsp;&nbsp;
+                        <asp:HyperLink ID="HyperLink2" runat="server" CssClass="auto-style3">Login</asp:HyperLink>
+&nbsp;&nbsp;
+                        <asp:HyperLink ID="HyperLink3" runat="server" CssClass="auto-style3">Home</asp:HyperLink>
+                    </asp:ContentPlaceHolder>
+                </p>
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+    <p>
+        Copyright@mkplacement</p>
+</body>
+</html>

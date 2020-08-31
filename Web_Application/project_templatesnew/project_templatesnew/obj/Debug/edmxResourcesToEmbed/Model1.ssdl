@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="User_ManagementModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'User_Management.dbo.New_User_Reg' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="New_User_Reg">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="First_Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Last_Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Phone_Number" Type="nvarchar" MaxLength="50" />
+    <Property Name="Address" Type="nvarchar(max)" />
+    <Property Name="Gender" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+    <Property Name="Password" Type="nvarchar" MaxLength="50" />
+    <Property Name="Confirm_Password" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'User_Management.dbo.User_Reg_Table' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="User_Reg_Table">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="First_Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Last_Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Phone_Number" Type="nvarchar" MaxLength="50" />
+    <Property Name="Address" Type="nvarchar(max)" />
+    <Property Name="Gender" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+    <Property Name="Password" Type="nvarchar" MaxLength="50" />
+    <Property Name="Confirm_Password" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityContainer Name="User_ManagementModelStoreContainer">
+    <EntitySet Name="New_User_Reg" EntityType="Self.New_User_Reg" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [New_User_Reg].[Id] AS [Id], 
+    [New_User_Reg].[First_Name] AS [First_Name], 
+    [New_User_Reg].[Last_Name] AS [Last_Name], 
+    [New_User_Reg].[Phone_Number] AS [Phone_Number], 
+    [New_User_Reg].[Address] AS [Address], 
+    [New_User_Reg].[Gender] AS [Gender], 
+    [New_User_Reg].[Email] AS [Email], 
+    [New_User_Reg].[Password] AS [Password], 
+    [New_User_Reg].[Confirm_Password] AS [Confirm_Password]
+    FROM [dbo].[New_User_Reg] AS [New_User_Reg]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="User_Reg_Table" EntityType="Self.User_Reg_Table" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [User_Reg_Table].[Id] AS [Id], 
+    [User_Reg_Table].[First_Name] AS [First_Name], 
+    [User_Reg_Table].[Last_Name] AS [Last_Name], 
+    [User_Reg_Table].[Phone_Number] AS [Phone_Number], 
+    [User_Reg_Table].[Address] AS [Address], 
+    [User_Reg_Table].[Gender] AS [Gender], 
+    [User_Reg_Table].[Email] AS [Email], 
+    [User_Reg_Table].[Password] AS [Password], 
+    [User_Reg_Table].[Confirm_Password] AS [Confirm_Password]
+    FROM [dbo].[User_Reg_Table] AS [User_Reg_Table]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>
