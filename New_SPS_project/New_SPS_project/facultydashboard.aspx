@@ -50,7 +50,7 @@
     <form id="form1" runat="server">
         <div class="auto-style12">
             Hello i am faculty here&nbsp;
-                <asp:Label ID="Label3" runat="server" Text="Label"></asp:Label>
+                <asp:Label ID="Label3em" runat="server" Text="Label"></asp:Label>
             <br />
             <asp:LinkButton ID="LinkButton1" runat="server" OnClick="LinkButton1_Click">Logout</asp:LinkButton>
             <br />
@@ -64,8 +64,13 @@
                     </td>
                      <tr>
                     <td class="auto-style2" style="background-color:darksalmon">
-                        <asp:LinkButton ID="LinkButton3" runat="server" PostBackUrl="~/attendance.aspx" OnClick="LinkButton3_Click">Attendance</asp:LinkButton>
-                    &nbsp;</td>
+                        <ul>
+                        <li><asp:LinkButton ID="LinkButton3" runat="server" PostBackUrl="~/attendance.aspx" OnClick="LinkButton3_Click">Mark Attendance</asp:LinkButton> </li>
+                    &nbsp;
+
+                      <li>  <asp:LinkButton ID="LinkButton7" runat="server" PostBackUrl="~/CheckAttendance_student.aspx" OnClick="LinkButton3_Click">Check Attendance</asp:LinkButton></li>
+                    </ul>
+                            </td>
                 </tr>
                 <tr>
                     <td class="auto-style3" style="background-color:darksalmon">
@@ -74,7 +79,7 @@
                 </tr>
                     </table>
 </asp:Panel>
-             <asp:Panel ID="Panel1" runat="server" style="display: inline;" CssClass="auto-style6" Width="636px" Height="675%">
+             <asp:Panel ID="Panel1" runat="server" style="display: inline;" CssClass="auto-style6" Width="624px" Height="675%">
                 
                      <table class="auto-style14" style="border:outset">
                     <tr>

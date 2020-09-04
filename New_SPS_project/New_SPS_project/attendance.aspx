@@ -6,9 +6,6 @@
 <head runat="server">
     <title></title>
     <style type="text/css">
-        .auto-style1 {
-            width: 45%;
-        }
         .auto-style3 {
             text-align: center;
         }
@@ -19,61 +16,74 @@
             margin-left: 0px;
         }
         .auto-style6 {
-            margin-left: 225px;
+            margin-left: 0px;
+            margin-right: 180px;
+        }
+        .auto-style7 {
+            margin-left: 0px;
+            width: auto;
+        }
+        .auto-style8 {
+            margin-right: 118px;
+        }
+        .auto-style9 {
+            text-align: left;
         }
         </style>
 </head>
 <body>
     <form id="form1" runat="server">
         <div class="auto-style3">
+            
+        <div class="auto-style9">
+             <asp:LinkButton ID="LinkButton2"  runat="server" OnClick="LinkButton2_Click" PostBackUrl="~/facultydashboard.aspx" >Back</asp:LinkButton>
+        </div>
+       <br />
+            <br />
+           
         <div class="auto-style3">
             <em><strong><span class="auto-style4">STUDENT ATTENDANCE</span><br class="auto-style4" />
+                
+            <br />
+            <br />
+                
             </strong></em>
+            </div>
+            <em><strong><span class="auto-style4"> Select Course </span><br class="auto-style4" />
             <br />
-            <span class="auto-style4"><strong>SELECT COURSE</strong></span><br />
-            <br />
-&nbsp;&nbsp;&nbsp;
-            <asp:DropDownList ID="DropDownList2" runat="server" DataSourceID="SqlDataSource1" DataTextField="course" DataValueField="course" Height="19px" Width="169px">
+            </strong></em>
+                
+            <asp:DropDownList ID="DropDownList2" runat="server" DataTextField="course" DataValueField="course" Height="53px" Width="399px" OnSelectedIndexChanged="DropDownList2_SelectedIndexChanged" CssClass="auto-style5" BackColor="#CCCCCC">
                 <asp:ListItem>.Net</asp:ListItem>
                 <asp:ListItem>Java</asp:ListItem>
                 <asp:ListItem>Python</asp:ListItem>
             </asp:DropDownList>
-            <hr />
-            <br />
-            <center>  
-            <table class="auto-style1">
-               
-                <tr>
-                                      <td class="auto-style3">
-                                          Select Date<br />
-                                          <br />
-&nbsp;&nbsp;&nbsp;&nbsp;
-                        <asp:TextBox ID="TextBox1" runat="server" TextMode="Date" Width="157px" OnTextChanged="TextBox1_TextChanged" AutoPostBack="True" CssClass="auto-style5"></asp:TextBox>
+                        <br />
+                        <br />
+                        <br />
+            
+               <em>
+<strong>               <span></span>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Select Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                                                                                                                                                                                                                                                                                                                   
+    </strong>                       
+    </em> <asp:TextBox ID="TextBox1" runat="server" TextMode="Date" Width="162px" OnTextChanged="TextBox1_TextChanged" AutoPostBack="True" CssClass="auto-style5"></asp:TextBox>
                     &nbsp;
-                                          <br />
-                                          <br />
-        <asp:Label ID="Label1" runat="server" Text='<%# Eval("Date", "{0:d MMM yyyy HH:mm}") %>' BorderStyle="Inset"></asp:Label>
-                                          <br />
-                                          <br />
-&nbsp;&nbsp;
-                        <asp:Button ID="Button1" runat="server" Text="Mark Attendance" OnClick="Button1_Click" />
-                                          &nbsp;<br />
-                        <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:student_databaseConnectionString4 %>" SelectCommand="SELECT DISTINCT [course] FROM [Register_db]"></asp:SqlDataSource>
-                                          <br />
-                                          <br />
-                    </td>
-                      
-
-                </tr>
-            </table>
-                </center>
-        </div>
+                                          <asp:Label ID="Label1" runat="server" Text='<%# Eval("Date", "{0:d MMM yyyy HH:mm}") %>' BorderStyle="Inset"></asp:Label>
+                            <br />
+                            <br />
+            <br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<asp:Button ID="Button1" runat="server" Text="Mark Attendance" OnClick="Button1_Click" Width="345px" BackColor="#99FFCC" Height="38px" />
+                                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            <asp:Button ID="Button3" runat="server" OnClick="Button3_Click" Text="Check Attendance" CssClass="auto-style8" Width="321px" BackColor="#99FFCC" Height="38px" />
+                            &nbsp;&nbsp;
+                            <asp:Label ID="Label2" runat="server" Text="Label"></asp:Label>
+                            <br />
+                            <br />
+                   
+           
+           
         <br />
-
-        <br />
-            <div class="auto-style3">
-        <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" CssClass="auto-style6" Width="399px" CellPadding="4" ForeColor="#333333" GridLines="None" OnSelectedIndexChanged="GridView1_SelectedIndexChanged">
-                <AlternatingRowStyle BackColor="White" ForeColor="#284775" />
+            <div>
+        <asp:GridView ID="GridView1"  runat="server" AutoGenerateColumns="False" CssClass="auto-style5" Width="1090px" CellPadding="3" GridLines="None" OnSelectedIndexChanged="GridView1_SelectedIndexChanged" BackColor="White" BorderColor="White" BorderStyle="Ridge" BorderWidth="2px" CellSpacing="1">
                 <Columns>
                     <asp:BoundField DataField="first_name" HeaderText="First_Name" />
                     <asp:BoundField DataField="last_name" HeaderText="Last_Name" />
@@ -85,30 +95,30 @@
                         </ItemTemplate>
                     </asp:TemplateField>
                 </Columns>
-                <EditRowStyle BackColor="#999999" />
-                <FooterStyle BackColor="#5D7B9D" Font-Bold="True" ForeColor="White" />
-                <HeaderStyle BackColor="#5D7B9D" Font-Bold="True" ForeColor="White" />
-                <PagerStyle BackColor="#284775" ForeColor="White" HorizontalAlign="Center" />
-                <RowStyle BackColor="#F7F6F3" ForeColor="#333333" />
-                <SelectedRowStyle BackColor="#E2DED6" Font-Bold="True" ForeColor="#333333" />
-                <SortedAscendingCellStyle BackColor="#E9E7E2" />
-                <SortedAscendingHeaderStyle BackColor="#506C8C" />
-                <SortedDescendingCellStyle BackColor="#FFFDF8" />
-                <SortedDescendingHeaderStyle BackColor="#6F8DAE" />
+                <FooterStyle BackColor="#C6C3C6" ForeColor="Black" />
+                <HeaderStyle BackColor="#4A3C8C" Font-Bold="True" ForeColor="#E7E7FF" />
+                <PagerStyle BackColor="#C6C3C6" ForeColor="Black" HorizontalAlign="Right" />
+                <RowStyle BackColor="#DEDFDE" ForeColor="Black" />
+                <SelectedRowStyle BackColor="#9471DE" Font-Bold="True" ForeColor="White" />
+                <SortedAscendingCellStyle BackColor="#F1F1F1" />
+                <SortedAscendingHeaderStyle BackColor="#594B9C" />
+                <SortedDescendingCellStyle BackColor="#CAC9C9" />
+                <SortedDescendingHeaderStyle BackColor="#33276A" />
             </asp:GridView>
-                <br />
-                <br />
+               <br />
+            <br />
+            <br />
+           
+             <div class="auto-style7">
+           <asp:Button ID="Button2" runat="server" OnClick="Button2_Click" Text="Save Attendance" Width="475px" BackColor="#99FFCC" CssClass="auto-style5" Height="41px" />
+        </div>
             </div>
-            <div>
+            
+        <br />
+               
 
-            </div>
-            &nbsp;<asp:LinkButton ID="LinkButton1" runat="server" OnClick="LinkButton1_Click">LinkButton</asp:LinkButton>
-            <asp:Label ID="Label2" runat="server" Text="Label"></asp:Label>
-        <asp:Button ID="Button2" runat="server" OnClick="Button2_Click" Text="Save Attendance" Width="123px" />
-            <br />
-            <br />
-            <br />
-            <asp:GridView ID="GridView2" runat="server" AutoGenerateColumns="False" BackColor="#CCCCCC" BorderColor="#999999" BorderStyle="Solid" BorderWidth="3px" CellPadding="4" CellSpacing="2" ForeColor="Black" OnSelectedIndexChanged="GridView2_SelectedIndexChanged">
+            
+            <asp:GridView ID="GridView2" runat="server" AutoGenerateColumns="False" BackColor="#CCCCCC" BorderColor="#999999" BorderStyle="Solid" BorderWidth="3px" CellPadding="4" CellSpacing="2" ForeColor="Black" OnSelectedIndexChanged="GridView2_SelectedIndexChanged" CssClass="auto-style6" Width="1102px">
                 <Columns>
                     <asp:BoundField DataField="first_name" HeaderText="First_Name" />
                     <asp:BoundField DataField="last_name" HeaderText="Last_Name" />
@@ -126,6 +136,8 @@
                 <SortedDescendingCellStyle BackColor="#CAC9C9" />
                 <SortedDescendingHeaderStyle BackColor="#383838" />
             </asp:GridView>
+        <br />
+        </div>
         </div>
     </form>
 </body>

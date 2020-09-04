@@ -34,7 +34,8 @@ namespace New_SPS_project
                 cmd.Connection = cn;
                 em = Session["email_id"].ToString();
                 Response.Write(em);
-                Label3.Text = em;
+                Label3em.Text = em;
+                
                 string qr1 = "select course from Register_DB where email_id='" + em + "' ";
                 SqlCommand command1 = new SqlCommand(qr1, cn);
                 course = Convert.ToString(command1.ExecuteScalar());
@@ -72,7 +73,8 @@ namespace New_SPS_project
                 string filename = Path.GetFileName(FileUpload1.PostedFile.FileName);
                 fn = FileUpload1.FileName;
                 Response.Write(fn);
-                Label3.Text = "filename " + fn;
+              
+                Label3em.Text = "filename" + fn;
                 FileUpload1.SaveAs(Server.MapPath("~/Data/") + fn);
                // FileUpload1.SaveAs(fn);
                 string course = DropDownList1.Text;
@@ -299,6 +301,11 @@ namespace New_SPS_project
         }
 
         protected void LinkButton3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void TextBox2_TextChanged(object sender, EventArgs e)
         {
 
         }

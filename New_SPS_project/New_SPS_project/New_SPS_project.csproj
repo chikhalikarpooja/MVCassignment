@@ -78,6 +78,7 @@
     <Content Include="bg1.jpg" />
     <Content Include="bg2.jpg" />
     <Content Include="blog.html" />
+    <Content Include="CheckAttendance_student.aspx" />
     <Content Include="contact.html" />
     <Content Include="courses.html" />
     <Content Include="css\bootstrap.min.css" />
@@ -167,6 +168,13 @@
     </Compile>
     <Compile Include="Attendance_Record.aspx.designer.cs">
       <DependentUpon>Attendance_Record.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CheckAttendance_student.aspx.cs">
+      <DependentUpon>CheckAttendance_student.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CheckAttendance_student.aspx.designer.cs">
+      <DependentUpon>CheckAttendance_student.aspx</DependentUpon>
     </Compile>
     <Compile Include="facultydashboard.aspx.cs">
       <DependentUpon>facultydashboard.aspx</DependentUpon>

@@ -16,8 +16,8 @@ namespace New_SPS_project
         string first_name;
         string last_name;
         string course;
-       //string attendance1;
-       // string date;
+        //string attendance1;
+        // string date;
         protected void Page_Load(object sender, EventArgs e)
         {
 
@@ -108,10 +108,10 @@ namespace New_SPS_project
                     Label2.Text = "Please choose one option";
                 }
                 string course = DropDownList2.SelectedValue;
-               
 
 
-                string insertQry = "INSERT INTO student_attendance(first_name, last_name,course,attendance,date)VALUES(' " + first_name + "', ' " + last_name + "', ' " + course + " ',' " + a + " ',' " + Label1.Text + " ') ";
+
+                string insertQry = "INSERT INTO student_attendance(first_name, last_name,course,attendance,date)VALUES('"+first_name+"','"+last_name+"','"+course+"','"+a+"','"+Label1.Text+"')";
 
 
 
@@ -124,21 +124,21 @@ namespace New_SPS_project
 
 
 
-               
-
-                con.Close();
 
 
-            
+            con.Close();
+
+
+
         }
 
-       
+
 
         protected void TextBox1_TextChanged(object sender, EventArgs e)
         {
 
             Label1.Text = string.Format("{0:dd-MM-yyyy}", Convert.ToDateTime(TextBox1.Text));
-          
+
 
         }
 
@@ -149,7 +149,7 @@ namespace New_SPS_project
 
         protected void Button3_Click1(object sender, EventArgs e)
         {
-            
+
         }
 
         protected void GridView2_SelectedIndexChanged(object sender, EventArgs e)
@@ -157,22 +157,48 @@ namespace New_SPS_project
 
         }
 
-     
+
         protected void LinkButton1_Click(object sender, EventArgs e)
         {
-            string qr;
+
+        }
+
+        protected void LinkButton2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void Button3_Click(object sender, EventArgs e)
+        {
+         
+          
+
+
             SqlConnection cn = new SqlConnection("data source = DESKTOP-7DJ3CV1\\SQLEXPRESS; integrated security = true; database = student_database");
             cn.Open();
-            qr = "select first_name,last_name,course,attendance,date from student_attendance where course='java' and date='02/07/2020' ";
+          
+            string course1 = DropDownList2.SelectedValue;
+            //Response.Write(course1);
 
+            string qr = "SELECT first_name,last_name,course,attendance,date from student_attendance where course='"+course1+"' and date= '"+Label1.Text+"' ";
+            
             SqlCommand cmd = new SqlCommand(qr, cn);
             cmd.ExecuteNonQuery();
+
             DataSet ds = new DataSet();
-            SqlDataAdapter da = new SqlDataAdapter(qr,cn);
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
             da.Fill(ds);
+
             GridView2.DataSource = ds.Tables[0];
             GridView2.DataBind();
             cn.Close();
         }
+
+        protected void DropDownList2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
-}
+
+        }
+    
