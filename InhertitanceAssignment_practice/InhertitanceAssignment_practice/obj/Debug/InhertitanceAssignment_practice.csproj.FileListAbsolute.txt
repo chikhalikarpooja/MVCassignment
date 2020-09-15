@@ -1,0 +1,7 @@
+C:\Users\PUJA\Desktop\pooja_C#.net\InhertitanceAssignment_practice\InhertitanceAssignment_practice\bin\Debug\InhertitanceAssignment_practice.exe.config
+C:\Users\PUJA\Desktop\pooja_C#.net\InhertitanceAssignment_practice\InhertitanceAssignment_practice\bin\Debug\InhertitanceAssignment_practice.exe
+C:\Users\PUJA\Desktop\pooja_C#.net\InhertitanceAssignment_practice\InhertitanceAssignment_practice\bin\Debug\InhertitanceAssignment_practice.pdb
+C:\Users\PUJA\Desktop\pooja_C#.net\InhertitanceAssignment_practice\InhertitanceAssignment_practice\obj\Debug\InhertitanceAssignment_practice.csprojAssemblyReference.cache
+C:\Users\PUJA\Desktop\pooja_C#.net\InhertitanceAssignment_practice\InhertitanceAssignment_practice\obj\Debug\InhertitanceAssignment_practice.csproj.CoreCompileInputs.cache
+C:\Users\PUJA\Desktop\pooja_C#.net\InhertitanceAssignment_practice\InhertitanceAssignment_practice\obj\Debug\InhertitanceAssignment_practice.exe
+C:\Users\PUJA\Desktop\pooja_C#.net\InhertitanceAssignment_practice\InhertitanceAssignment_practice\obj\Debug\InhertitanceAssignment_practice.pdb

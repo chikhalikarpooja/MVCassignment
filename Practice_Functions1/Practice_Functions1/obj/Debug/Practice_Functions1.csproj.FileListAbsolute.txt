@@ -1,0 +1,7 @@
+C:\Users\PUJA\Desktop\pooja_C#.net\Practice_Functions1\Practice_Functions1\bin\Debug\Practice_Functions1.exe.config
+C:\Users\PUJA\Desktop\pooja_C#.net\Practice_Functions1\Practice_Functions1\bin\Debug\Practice_Functions1.exe
+C:\Users\PUJA\Desktop\pooja_C#.net\Practice_Functions1\Practice_Functions1\bin\Debug\Practice_Functions1.pdb
+C:\Users\PUJA\Desktop\pooja_C#.net\Practice_Functions1\Practice_Functions1\obj\Debug\Practice_Functions1.csprojAssemblyReference.cache
+C:\Users\PUJA\Desktop\pooja_C#.net\Practice_Functions1\Practice_Functions1\obj\Debug\Practice_Functions1.csproj.CoreCompileInputs.cache
+C:\Users\PUJA\Desktop\pooja_C#.net\Practice_Functions1\Practice_Functions1\obj\Debug\Practice_Functions1.exe
+C:\Users\PUJA\Desktop\pooja_C#.net\Practice_Functions1\Practice_Functions1\obj\Debug\Practice_Functions1.pdb
